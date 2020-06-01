@@ -13,14 +13,30 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  taylor:
     name: Taylor
     display_name: Taylor
-    gravatar: 
+    # gravatar: 
     email: taylor@openfn.org
     web: https://www.openfn.org/leadership#Taylor
     twitter: https://twitter.com/taylordowns2000
-    description: "Head of Product at OpenFn."
+    description: "Head of Product at OpenFn"
+  aleksa:
+    name: Aleksa
+    display_name: Aleksa
+    # gravatar: 
+    email: aleksa@openfn.org
+    web: https://www.openfn.org/leadership#Taylor
+    twitter: https://twitter.com/aleksa_krolls
+    description: "Head of Services at OpenFn"
+  leilei:
+    name: Lei Lei
+    display_name: Lei Lei
+    # gravatar: 
+    email: leilei@openfn.org
+    web: https://www.openfn.org/leadership#Taylor
+    # twitter: https://twitter.com/aleksa_krolls
+    description: "Communications Specialist at OpenFn"
 
 # Plugins
 plugins:
@@ -54,8 +70,8 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+# adsense-data-ad-client: "ca-pub-3412143450191416"
+# adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
