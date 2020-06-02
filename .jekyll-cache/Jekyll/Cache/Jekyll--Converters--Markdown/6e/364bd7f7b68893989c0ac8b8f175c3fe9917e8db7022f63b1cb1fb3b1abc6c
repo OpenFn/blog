@@ -1,0 +1,101 @@
+I"]<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/blog/myagro-4-years-later/">
+                
+
+                    
+                        <img class="img-thumb" src="/blog/assets/images/farmers.jpg" alt="Enabling scale at myAgro, 4 years later" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/blog/myagro-4-years-later/">Enabling scale at myAgro, 4 years later</a>
+                
+            </h2>
+            <h4 class="card-text">There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/?s=250&amp;d=mm&amp;r=x" alt="Lei Lei" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.openfn.org/leadership#Taylor">Lei Lei</a></span> 
+                
+                <span class="post-date">01 Jun 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/blog/the-new-openfn-blog/">
+                
+
+                    
+                        <img class="img-thumb" src="/blog/assets/images/8.jpg" alt="Announcing the new OpenFn Blog" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/blog/the-new-openfn-blog/">Announcing the new OpenFn Blog</a>
+                
+            </h2>
+            <h4 class="card-text">For the last few years, several OpenFn contributors and I have been blogging over at Medium. I’m still going to write there from time to time under the OpenFn Founder’s...</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="https://www.gravatar.com/avatar/?s=250&amp;d=mm&amp;r=x" alt="Taylor" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name"><a target="_blank" href="https://www.openfn.org/leadership#Taylor">Taylor</a></span> 
+                
+                <span class="post-date">31 May 2020</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    
+</span>
+</div>
+
+:ET

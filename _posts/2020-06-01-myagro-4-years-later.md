@@ -3,7 +3,7 @@ layout: post
 title: 'Enabling scale at myAgro, 4 years later'
 author: leilei
 categories: [Jekyll, tutorial]
-image: assets/images/16.jpg
+image: assets/images/farmers.jpg
 ---
 
 There are lots of powerful things you can do with the Markdown editor. If you've
