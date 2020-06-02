@@ -1,6 +1,5 @@
-# [The OpenFn Blog](https://openfn.github.io/blog/)
+# Memoirs Jekyll Theme
 
-## Contributing
+[Live Demo](https://wowthemesnet.github.io/jekyll-theme-memoirs/) | [Docs & Download](https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-1. Create a new post under `_posts` on a new branch.
-2. Submit a pull request to the `master` branch.
+![memoirs](https://bootstrapstarter.com/assets/img/themes/memoirs-jekyll.jpg)
