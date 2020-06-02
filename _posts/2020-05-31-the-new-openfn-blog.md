@@ -3,7 +3,7 @@ layout: post
 title: 'Announcing the new OpenFn Blog'
 author: taylor
 categories: [Jekyll, tutorial]
-image: assets/images/8.jpg
+image: assets/images/team-no-td.jpg
 ---
 
 For the last few years, several OpenFn contributors and I have been blogging
