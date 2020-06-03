@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enabling scale at myAgro, 4 years later'
+title: 'Enabling Scale at myAgro, 4 Years Later'
 author: hninleileitun
 categories: [Jekyll, tutorial]
 image: assets/images/farmers.jpg
