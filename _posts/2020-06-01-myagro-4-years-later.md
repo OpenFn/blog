@@ -9,7 +9,7 @@ featured: true
 
 OpenFn is helping small-scale farmers break the cycle of poverty with an automated savings & supply chain system. 
 
-## Here's what's happening. 
+## Here's the overview. 
 
 Small-scale farmers are feeding the world, but a majority of them are in an endless cycle of poverty and lack access to traditional banks and financing. 
 
@@ -19,11 +19,11 @@ Small-scale farmers are feeding the world, but a majority of them are in an endl
 
 myAgro helps thousands of farmers in Senegal and Mali save money for seed and fertilizer using what they already have—their mobile phone. With a mission to move small-scale farmers out of poverty, myAgro leveraged OpenFn to develop a mobile layaway platform that connects their Telerivet SMS-based savings deposit system, Salesforce farmer tracking & supply chain system, and CommCare barcode-scanning mobile app. 
 
-#### myAgro needed real-time program monitoring. 
+## myAgro needed real-time program monitoring. 
 
 In 2014, myAgro utilized Telerivet, an instant SMS and voice platform, to capture farmer savings deposits, and paper to track voucher shipments. They would then regularly export the SMS data to an Excel spreadsheet, and manually match savings deposits against a database of vouchers before allocating credit to a farmer’s account and sending a confirmation SMS. Staff spent 1-2 hours per day (or 261+ hours per year) on this data reconciliation process, which had high potential for human error. 
 
-#### Where OpenFn Comes In:
+## Where OpenFn Comes In:
 
 OpenFn moved this entire manual process over to the cloud, automating the savings deposit system and connecting a CommCare barcode-scanning mobile app for real-time farmer order management and inventory tracking. By integrating Telerivet and Salesforce, myAgro no longer has to rely on data entries and uploads that would take 1-2 hours each day. 
 
