@@ -43,6 +43,8 @@ to a farmer’s account and sending a confirmation SMS. Staff spent 1-2 hours pe
 day (or 261+ hours per year) on this data reconciliation process, which had high
 potential for human error.
 
+![](https://github.com/OpenFn/blog/blob/images/_posts/DSC05838a.jpg)
+
 ### Where OpenFn Comes In...
 
 OpenFn moved this entire manual process over to the cloud, automating the
