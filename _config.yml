@@ -15,15 +15,15 @@ permalink: /:title/
 authors:
   taylor:
     name: Taylor
-    display_name: Taylor
-    # gravatar: 
+    display_name: Taylor Downs
+    gravatar: 56373287c62e094d0f4f367fd993ff79
     email: taylor@openfn.org
     web: https://www.openfn.org/leadership#Taylor
     twitter: https://twitter.com/taylordowns2000
     description: "Head of Product at OpenFn"
   aleksa:
     name: Aleksa
-    display_name: Aleksa
+    display_name: Aleksa Krolls
     # gravatar: 
     email: aleksa@openfn.org
     web: https://www.openfn.org/leadership#Taylor
@@ -31,7 +31,7 @@ authors:
     description: "Head of Services at OpenFn"
   leilei:
     name: Lei Lei
-    display_name: Lei Lei
+    display_name: Lei Lei Tun
     # gravatar: 
     email: leilei@openfn.org
     web: https://www.openfn.org/leadership#Taylor
