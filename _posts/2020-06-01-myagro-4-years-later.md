@@ -29,8 +29,8 @@ OpenFn moved this entire manual process over to the cloud, automating the saving
 
 OpenFn now processes all SMS messages automatically, builds trust by providing instant confirmation to farmers, and eliminates the chance of human error in savings allocations. OpenFn helped myAgro transition from managing rows and columns of data in an Excel spreadsheet to an automated savings and inventory tracking system that enables real-time program monitoring. 
 
-1. In 2014, myAgro serviced 14,000 farmers across 200 villages in Senegal and Mali. 
-2. With the help of OpenFn, myAgro worked with 120,000 farmers in 2019, and plans to scale towards their goal of reaching `1 million farmers` by 2025.
+*In 2014, myAgro serviced 14,000 farmers across 200 villages in Senegal and Mali. 
+*With the help of OpenFn, myAgro worked with 120,000 farmers in 2019, and plans to scale towards their goal of reaching `1 million farmers` by 2025.
 
 Read more about myAgro’s mission [here](https://www.myagro.org/).
 
