@@ -19,7 +19,7 @@ Small-scale farmers are feeding the world, but a majority of them are in an endl
 
 myAgro helps thousands of farmers in Senegal and Mali save money for seed and fertilizer using what they already have—their mobile phone. With a mission to move small-scale farmers out of poverty, myAgro leveraged OpenFn to develop a mobile layaway platform that connects their Telerivet SMS-based savings deposit system, Salesforce farmer tracking & supply chain system, and CommCare barcode-scanning mobile app. 
 
-### myAgro needed real-time program monitoring. 
+### Real-time program monitory was needed.  
 
 In 2014, myAgro utilized Telerivet, an instant SMS and voice platform, to capture farmer savings deposits, and paper to track voucher shipments. They would then regularly export the SMS data to an Excel spreadsheet, and manually match savings deposits against a database of vouchers before allocating credit to a farmer’s account and sending a confirmation SMS. Staff spent 1-2 hours per day (or 261+ hours per year) on this data reconciliation process, which had high potential for human error. 
 
