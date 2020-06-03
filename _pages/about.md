@@ -21,9 +21,9 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Sticky side part!</h5>
+<h5>Ready to get started?</h5>
 
-<p>This is cool—how might we make use of this here or on other pages?</p>
+<p>Log in or sign up for a free account now.</p>
 
 <a href="https://www.openfn.org/projects" class="btn btn-primary">Log in</a>
 <a href="https://www.openfn.org/signup" class="btn btn-info">Sign up</a>

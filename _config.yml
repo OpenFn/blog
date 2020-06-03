@@ -1,13 +1,13 @@
 # Site
-name: "OpenFn Blog"
-title: "OpenFn Blog"
-description: "The OpenFn Blog"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "The OpenFn Blog"
+title: "The OpenFn Blog"
+description: "We help the world's most promising social impact interventions achieve scale through automation, data integration, and interoperability. This is our story."
+logo: "assets/images/logo.png"
+favicon: "assets/images/logo.png"
 baseurl: /blog
-google_analytics: 'UA-57118569-10'
-disqus: 'openfn'
-mailchimp-list: ''
+google_analytics: "UA-57118569-10"
+disqus: "openfn"
+mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
 
@@ -24,7 +24,7 @@ authors:
   aleksa:
     name: Aleksa
     display_name: Aleksa Krolls
-    # gravatar: 
+    # gravatar:
     email: aleksa@openfn.org
     web: https://www.openfn.org/leadership#Taylor
     twitter: https://twitter.com/aleksa_krolls
@@ -32,7 +32,7 @@ authors:
   leilei:
     name: Lei Lei
     display_name: Lei Lei Tun
-    # gravatar: 
+    gravatar: 94a4f7570b9b6a5f253e59668bd0943a
     email: leilei@openfn.org
     web: https://www.openfn.org/leadership#Taylor
     # twitter: https://twitter.com/aleksa_krolls
@@ -45,19 +45,19 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+
 # Archives
 jekyll-archives:
   enabled:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
+    category: "/category/:name/"
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 
