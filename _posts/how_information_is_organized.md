@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'How Information Is Organized... in Organizations'
+author: Taylor Downes
+categories:
+  [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
+image: assets/images/farmers.jpg
+featured: true
+---
+
+#### _OpenFn is helping small-scale farmers break the cycle of poverty with an automated savings & supply chain system._
+
+### Here's the overview.
