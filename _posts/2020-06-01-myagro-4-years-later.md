@@ -33,6 +33,8 @@ mobile layaway platform that connects their Telerivet SMS-based savings deposit
 system, Salesforce farmer tracking & supply chain system, and CommCare
 barcode-scanning mobile app.
 
+![](assets/images/myAgro1.JPG)
+
 ### Real-time program monitory was needed.
 
 In 2014, myAgro utilized Telerivet, an instant SMS and voice platform, to
