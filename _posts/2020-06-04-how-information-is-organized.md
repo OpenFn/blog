@@ -12,7 +12,7 @@ featured: true
 
 <br />
 
-_This article was originally posted by Taylor Downs, Head of Product, on [The OpenFn Founder's blog](https://medium.com/@taylordowns2000/the-power-of-crow-s-feet-ca3dbb36625e) as "The power of crow's feet."_
+_This article was originally posted by Taylor Downs, Head of Product, on [The OpenFn Founder's blog](https://medium.com/@taylordowns2000) as "The power of crow's feet."_
 
 <br />
 
