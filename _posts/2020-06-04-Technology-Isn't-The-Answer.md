@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Technology Isn't The Answer, but It Shouldn't Be The Problem'
-author: Taylor 
+title: 'How Information Is Organized...in Organizations'
+author: Taylor
 categories:
-  [ict4d, Salesforce, Open Data Kit, SurveyCTO]
-image: assets/images/techpic.jpg
+  [ict4d, Salesforce, technology, Vera Solutions, tools, Open Data Kit, SurveyCTO]
+images: assets/images/techpic.jpg
 featured: true
 ---
 
