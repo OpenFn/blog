@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enabling Scale at myAgro, 4 Years Later'
-author: Lei Lei
+author: leilei
 categories:
   [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
 image: assets/images/farmers.jpg
@@ -32,6 +32,8 @@ move small-scale farmers out of poverty, myAgro leveraged OpenFn to develop a
 mobile layaway platform that connects their Telerivet SMS-based savings deposit
 system, Salesforce farmer tracking & supply chain system, and CommCare
 barcode-scanning mobile app.
+
+![](assets/images/myAgro1.JPG)
 
 ### Real-time program monitory was needed.
 
