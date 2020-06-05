@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enabling Scale at myAgro, 4 Years Later'
-author: Lei Lei
+author: leilei
 categories:
   [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
 image: assets/images/farmers.jpg
