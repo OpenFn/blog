@@ -8,7 +8,7 @@ favicon: "assets/images/logo.png"
 google_analytics: "UA-57118569-10"
 disqus: "openfn"
 mailchimp-list: ""
-include: ["_pages"]
+include: ["_pages", "_pages/authors"]
 permalink: /:title/
 
 # Authors
@@ -26,7 +26,7 @@ authors:
     display_name: Aleksa Krolls
     gravatar: b59257a59a25dfc3b3e3ba1b5184dbf4
     email: aleksa@openfn.org
-    web: https://www.openfn.org/leadership#Taylor
+    web: https://www.openfn.org/leadership#Aleksa
     twitter: https://twitter.com/aleksa_krolls
     description: "Head of Services at OpenFn"
   leilei:
@@ -34,7 +34,7 @@ authors:
     display_name: Lei Lei Tun
     gravatar: 94a4f7570b9b6a5f253e59668bd0943a
     email: leilei@openfn.org
-    web: https://www.openfn.org/leadership#Taylor
+    # web: https://docs.openfn.org/authors/leilei
     # twitter: https://twitter.com/aleksa_krolls
     description: "Communications Specialist at OpenFn"
 
