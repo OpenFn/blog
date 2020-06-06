@@ -10,9 +10,11 @@ comments: true
 
 <p>This is a blog published by Open Function Group, the providers of the OpenFn integration platform.</p>
 
+![](/assets/images/teamphoto.jpg)
+
 <h4>What is OpenFn?</h4>
 
-<p>Learn all about OFG <a href="https://openfn.org/about">here</a>.</p>
+<p>Learn all about Open Function Group <a href="https://openfn.org/about">here</a>.</p>
 <p>Learn all the OpenFn platform <a href="https://openfn.org/what">here</a>.</p>
 <p>Scope out our leadership team <a href="https://openfn.org/leadership">here</a>.</p>
 
