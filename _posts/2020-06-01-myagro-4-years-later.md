@@ -8,7 +8,7 @@ image: assets/images/farmers.jpg
 featured: true
 ---
 
-#### _OpenFn is helping small-scale farmers break the cycle of poverty with an automated savings & supply chain system.Small-scale farmers are feeding the world, but a majority of them are in an endless cycle of poverty and lack access to traditional banks and financing._
+_OpenFn is helping small-scale farmers break the cycle of poverty with an automated savings & supply chain system.Small-scale farmers are feeding the world, but a majority of them are in an endless cycle of poverty and lack access to traditional banks and financing._
 
 ### Here's the overview.
 
