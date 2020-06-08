@@ -4,7 +4,7 @@ title: "The OpenFn Blog"
 description: "We help the world's most promising social impact interventions achieve scale through automation, data integration, and interoperability. This is our story."
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
-# baseurl: /blog
+# baseurl: ""
 google_analytics: "UA-57118569-10"
 disqus: "openfn"
 mailchimp-list: ""
