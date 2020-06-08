@@ -3,12 +3,12 @@ layout: post
 title: 'Enabling Scale at myAgro, 4 Years Later'
 author: leilei
 categories:
-  [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
+  [agriculture, scale, automation, commcare, salesforce, telerivet, sms, supply chain]
 image: assets/images/farmers.jpg
 featured: true
 ---
 
-_OpenFn is helping small-scale farmers break the cycle of poverty with an automated savings & supply chain system.Small-scale farmers are feeding the world, but a majority of them are in an endless cycle of poverty and lack access to traditional banks and financing._
+_OpenFn is helping small-scale farmers break the cycle of poverty with an automated savings & supply chain system. Small-scale farmers are feeding the world, but a majority of them are in an endless cycle of poverty and lack access to traditional banks and financing._
 
 ### Here's the overview.
 
@@ -30,11 +30,11 @@ mobile layaway platform that connects their Telerivet SMS-based savings deposit
 system, Salesforce farmer tracking & supply chain system, and CommCare
 barcode-scanning mobile app.
 
-![](assets/images/myAgro1.JPG)
+![myagro]({{ site.baseurl }}/assets/images/myAgro1.JPG)
 
-### Real-time program monitory was needed.
+### Real-time program monitoring was needed.
 
-In 2014, myAgro utilized Telerivet, an instant SMS and voice platform, to
+In 2014, myAgro utilized [Telerivet](https://telerivet.com/), an instant SMS and voice platform, to
 capture farmer savings deposits, and paper to track voucher shipments. They
 would then regularly export the SMS data to an Excel spreadsheet, and manually
 match savings deposits against a database of vouchers before allocating credit
@@ -61,4 +61,4 @@ tracking system that enables real-time program monitoring.
 - With the help of OpenFn, myAgro worked with 120,000 farmers in 2019, and plans
   to scale towards their goal of reaching `1 million farmers` by 2025.
 
-Read more about myAgro’s mission [here](https://www.myagro.org/).
+Read more about myAgro’s mission [here](https://www.myagro.org/), and stay tuned as myAgro continues to scale its OpenFn implementation.
