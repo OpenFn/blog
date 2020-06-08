@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Enabling Scale at myAgro, 4 Years Later'
+snippet: 'This is just a test'
 author: leilei
 categories:
   [
