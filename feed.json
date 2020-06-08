@@ -11,6 +11,8 @@ layout: null
     "items": [{% for post in site.posts limit:20 %}
       {
         "title": "{{ post.title | xml_escape }}",
+        "author": "{{ post.author }}",
+        "featured": "{{ post.featured }}",
         "description": "{{ post.snippet | xml_escape }}",
         "pubDate": "{{ post.date | date_to_rfc822 }}",
         "link": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
