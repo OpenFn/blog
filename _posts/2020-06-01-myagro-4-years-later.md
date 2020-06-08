@@ -32,7 +32,7 @@ barcode-scanning mobile app.
 
 ![myagro]({{ site.baseurl }}/assets/images/myAgro1.JPG)
 
-### Real-time program monitoring was needed.
+### Using Excel and paper to manage thousands of farmer transactions.
 
 In 2014, myAgro utilized [Telerivet](https://telerivet.com/), an instant SMS and voice platform, to
 capture farmer savings deposits, and paper to track voucher shipments. They
@@ -42,13 +42,13 @@ to a farmer’s account and sending a confirmation SMS. Staff spent 1-2 hours pe
 day (or 261+ hours per year) on this data reconciliation process, which had high
 potential for human error.
 
-### Where OpenFn Comes In...
+### Where OpenFn comes in...
 
 OpenFn moved this entire manual process over to the cloud, automating the
 savings deposit system and connecting a CommCare barcode-scanning mobile app for
 real-time farmer order management and inventory tracking. By integrating
 Telerivet and Salesforce, myAgro no longer has to rely on data entries and
-uploads that would take 1-2 hours each day.
+uploads that would take 1-2 hours each day. 
 
 OpenFn now processes all SMS messages automatically, builds trust by providing
 instant confirmation to farmers, and eliminates the chance of human error in
