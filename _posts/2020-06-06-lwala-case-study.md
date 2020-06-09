@@ -20,10 +20,24 @@ As part of its holistic approach, Lwala supports an extensive network of Communi
 
 To manage patient healthcare, Lwala CHWs would receive paper-based patient data once a month and take another week to input that data, losing valuable staff time and increasing time lags between data collection, analysis, and action. They wanted to incorporate a mobile case management application (CommCare) to reduce the lag time required for data entry from paper forms and to make their data more reliable and timely for CHWs. That said, Lwala didn’t have a way to automatically connect data collected via CommCare, the mobile app, with their central Salesforce-based patient database. 
 
+![myagro]({{ site.baseurl }}/assets/images/myAgro1.JPG)
+
+
+
 ### Lwala decided to implement OpenFn in 2016. 
 
-With this implementation, Lwala was able to automatically pass data between CommCare and Salesforce, providing CHWs with real-time data to inform healthcare  protocols, highlight priority clients, and identify which patient to visit next. Mother and child health data collected by CHWs via mobile phone is now automatically reflected in Lwala’s patient database where it can be easily analyzed by Lwala M&E staff. Patient updates entered in the database are now also automatically synced back to CHWs’ mobile phones, ensuring CHWs always have access to the most up-to-date information. This OpenFn-powered connected health system saves the organization about 205 hours/quarter in data entry time. It has also made CHWs’ jobs easier by getting them the crucial information they need, faster. Lwala didn’t stop there. 
+OpenFn facilitates bi-directional data flows between CommCare and Salesforce, enabling Lwala to use Salesforce analytics to summarize data across CHWs, as well as create feedback loops for CommCare mobile users. On a scheduled basis, Lwala pushes key performance metrics back to CHW CommCare mobile users via OpenFn. Leveraging the OpenFn CommCare language-package, this "CHW Stats" job accesses CommCare's submission API to submit a CommCare form and thereby share key performance metrics calculated in Salesforce with the CHWs, using CommCare mobile. This provides CHWs with real-time data to inform healthcare  protocols, highlight priority clients, and identify which patient to visit next. Lwala CHW supervisors can then review these stats on mobile to monitor key performance metrics such as number of households reached, number of home delivers, etc. 
 
-In 2019, Lwala expanded its efforts to two new Kenyan provinces through a partnership with the Ministry of Health, reaching a population of 90,000. To support this expansion, Lwala expanded its OpenFn solution and integrated new CommCare tools for MoHdata collection. With that in place, Lwala was able to grow its team of CHWs who are now five times more likely to be aware of danger signs in pregnancy and early infancy compared to existing health volunteers. 
+Mother and child health data collected by CHWs via mobile phone is now automatically reflected in Lwala’s patient database where it can be easily analyzed by Lwala M&E staff. Patient updates entered in the database are now also automatically synced back to mobile phones, ensuring CHWs always have access to the most up-to-date information. 
 
+This OpenFn-powered connected health system saves the organization about 205 hours/quarter in data entry time. 
+
+It has also made CHWs’ jobs easier by getting them the crucial information they need, faster. Lwala didn’t stop there. 
+
+### Expanding to new provinces through partnership with the Ministry of Health
+
+In 2019, Lwala expanded its efforts to two new Kenyan provinces through a partnership with the Ministry of Health, reaching a population of 90,000. To support this expansion, Lwala expanded its OpenFn solution and integrated new CommCare tools for MoH data collection. With that in place, Lwala was able to grow its team of CHWs who are now five times more likely to be aware of danger signs in pregnancy and early infancy compared to existing health volunteers (Lwala Community Alliance, 2019 Annual Report). 
+
+
+Read our Medium blog [post](https://medium.com/@taylordowns2000/building-a-real-time-decision-support-tool-for-community-health-workers-75ef8a4ba520?source=---------7------------------) to learn more.
 
