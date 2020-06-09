@@ -14,9 +14,6 @@ featured: true
 
 _This article was originally posted by Taylor Downs, Head of Product, on [The OpenFn Founder's blog](https://medium.com/@taylordowns2000) as "Making technology work better in the social sector."_
 
-<br />
-
-
 ### We're building a tool that will make integrating critical social-impact technologies trivial.
 
 The words “integrating” and “trivial” are not often written in the same sentence — and for good reason! Non-technical readers click away when they read the former, while developers see the latter and think it’s nonsense! (i.e., Integration is NEVER trivial.) This doesn’t leave a lot of you left here on sentence number 5. Thanks for sticking it out, and let me reward your patience by explaining why this is such a big deal and what we need from you to make it happen.
@@ -43,7 +40,7 @@ We use (1) a universal standard for data storage, (2) standard information about
 
 For those of you who work in technology, the power of this strategy (namely, using a universal standard) should be apparent. To integrate a new application, a small adapter that translates data to JSON and provides a JSON-schema for your database is all that’s required. Once one API connection to OpenFn is established, ***your technology is instantly connected to every other technology connected to OpenFn–and OpenFn can connect any application.*** It will start to snowball quickly, allowing data to flow instantly between hundreds of crucial applications, and each developer will only ever need to maintain a single connection.
 
-![](assets/images/apps.png)
+![]({{ site.baseurl }}/assets/images/apps.png)
 
 Dozens of organizations worldwide use OpenFn to scale their interventions by automating key processes and information flows. OpenFn solutions deliver critical information, faster and unlock resources for organizations by eliminating manual, time-intensive tasks. OpenFn connects any app–including common ICT4D tools like DHIS2, CommCare, Kobo Toolbox, and Salesforce, as well as databases, custom applications, and legacy systems. Drop us a note if you’re thinking about how to connect tools at your organization, or if you’re a developer and wondering how to get your product connected to other essential tools in international development.
 
