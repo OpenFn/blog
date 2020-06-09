@@ -20,8 +20,7 @@ As part of its holistic approach, Lwala supports an extensive network of Communi
 
 To manage patient healthcare, Lwala CHWs would receive paper-based patient data once a month and take another week to input that data, losing valuable staff time and increasing time lags between data collection, analysis, and action. They wanted to incorporate a mobile case management application (CommCare) to reduce the lag time required for data entry from paper forms and to make their data more reliable and timely for CHWs. That said, Lwala didn’t have a way to automatically connect data collected via CommCare, the mobile app, with their central Salesforce-based patient database. 
 
-![myagro]({{ site.baseurl }}/assets/images/lwala2.jpeg)
-
+![]({{ site.baseurl }}/assets/images/lwala2.jpeg)
 
 ### Lwala decided to implement OpenFn in 2016. 
 
