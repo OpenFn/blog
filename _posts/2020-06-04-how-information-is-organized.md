@@ -36,15 +36,15 @@ Let me show you the tools in the toolbox and then wrap up by waxing poetic on pe
 
 ### Boxes and crow's feet 
 
-![](assets/images/box.png)
+![]({{ site.baseurl }}/assets/images/box.png)
 
 The box is my favorite. It represents an entity in your data system. Entities (like “teachers”) have attributes (like “names”, “phone numbers”, “dates of Birth”, “genders”, etc.) Some people like thinking of entities as simple forms. The “teacher registration form” will ask for the teacher’s name, phone number, gender, etc. These are the fields on your teacher entity. By submitting one of these forms, you’ll add a new teacher to your database. If you’re an Excel person, the attributes are columns in your “teacher table.”
 
-![](assets/images/crowsfeet.png)
+![]({{ site.baseurl }}/assets/images/crowsfeet.png)
 
 The crow’s foot is my second favorite. It’s used to show relationships between entities. We know that teachers are related to the sessions that they conduct. (And “session” might be another entity, with fields like “date”, “subject taught”, and “venue”, to name just a few.) The crow’s foot allows us to specify exactly how they are related. On that session entity, we’ll need to specify the name (or ID) of the teacher who led it. On the teacher entity, however, there won’t be a field to specify the name or ID of the session… because a single teacher can lead MANY sessions. This is a one-to-many relationship. The crow’s foot (that little three-pronged fella) denotes the many. One teacher can have many sessions. One session, however, can only have one teacher. See the diagram below.
 
-![](assets/images/objectmodel.png)
+![]({{ site.baseurl }}/assets/images/objectmodel.png)
 
 
 If we focus just on “teacher” and “session” and think back to MS Excel, we can envision a teacher table and a session table. Let’s put them on different sheets in the same workbook. On the teacher table, there is no column for “session”, but on the session table, there is a column for “teacher ID”. We’ve just established a one-to-many relationship.
