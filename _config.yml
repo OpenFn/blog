@@ -7,7 +7,7 @@ favicon: "assets/images/logo.png"
 # baseurl: ""
 google_analytics: "UA-57118569-10"
 disqus: "openfn"
-mailchimp-list: ""
+mailchimp-list: "https://openfn.us11.list-manage.com/subscribe/post?u=ad898e5a4d5a9aab0bbd63aee&amp;id=09786b7447"
 include: ["_pages", "_pages/authors"]
 permalink: /:title/
 
