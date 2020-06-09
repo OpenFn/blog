@@ -4,7 +4,7 @@ title: 'Enabling Scale at myAgro, 4 Years Later'
 author: Lei Lei
 categories:
   [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
-image: assets/images/farmers.jpg
+image: assets/images/myAgro1.JPG
 featured: true
 ---
 
@@ -43,7 +43,7 @@ to a farmer’s account and sending a confirmation SMS. Staff spent 1-2 hours pe
 day (or 261+ hours per year) on this data reconciliation process, which had high
 potential for human error.
 
-![]({{ site.baseurl }}/assets/images/myAgro1.JPG)
+![]({{ site.baseurl }}/assets/images/farmers.jpg)
 
 ### Where OpenFn Comes In...
 
