@@ -4,7 +4,7 @@ title: 'Technology Isn't The Answer, But It Shouldn't Be The Problem'
 author: Taylor
 categories:
   [ict4d, Salesforce, technology, Vera Solutions, tools, Open Data Kit, SurveyCTO]
-image: assets/images/farmers.jpg
+image: assets/images/techpic.jpg
 featured: true
 ---
 
@@ -33,7 +33,7 @@ Hundreds of these tools exist, but social impact organizations face three main b
 
 Figuring out the people and the processes, that’s always going to be the hardest part to get right — whether or not the technical work presents a barrier. Openfn.org’s first objective is to knock down the technical hurdles so that organizations can focus on that important contextual stuff.
 
-![myagro]({{ site.baseurl }}/assets/images/technology1.jpg.jpg)
+![]({{ site.baseurl }}/assets/images/technology1.jpg.jpg)
 
 We see a future where the technical setup of a mobile money platform, a biometrics tool, even an offline clinic registration platform, feels just like downloading an app from the app store.
 
