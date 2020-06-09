@@ -14,7 +14,7 @@ categories:
     sms,
     supply chain,
   ]
-image: assets/images/farmers.jpg
+image: assets/images/myAgro1.JPG
 featured: true
 ---
 
@@ -45,7 +45,7 @@ mobile layaway platform that connects their Telerivet SMS-based savings deposit
 system, Salesforce farmer tracking & supply chain system, and CommCare
 barcode-scanning mobile app.
 
-![myagro]({{ site.baseurl }}/assets/images/myAgro1.JPG)
+![myagro]({{ site.baseurl }}/assets/images/farmers.jpg)
 
 ### Using Excel and paper to manage thousands of farmer transactions.
 
