@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Automating real-time census monitoring and data cleaning for iKapaData'
-author: Lei Lei
+author: leilei
 categories:
   [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
 image: assets/images/myAgro1.JPG
