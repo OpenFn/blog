@@ -10,7 +10,7 @@ featured: true
 
 _OpenFn has saved the iKapaData team valuable time typically spent on manual data entry and cleaning processes.The real-time connection has enabled live data monitoring for the team as iKapaData survey enumerators were conducting the survey._
 
-### Why iKapaData's work is essential...
+### iKapaData's essential work in South Africa
 
 The census plays an important role in public administration by creating a compiled, numerical profile of South Africa. Enumerators are taught the local language and local customs in order to effectively achieve information from all households. This dataset is used as a benchmark in research and analysis for the public administration to determine policy decisions, budget decisions, and more. OpenFn enabled a system for iKapaData to ensure this delivery of accurate and timely information for the census. 
 
