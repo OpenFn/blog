@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ensuring iKapaData's delivery of accurate and timely information for South Africa's census'
+title: 'Automating real-time census monitoring and data cleaning for iKapaData'
 author: Lei Lei
 categories:
   [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
