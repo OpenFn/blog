@@ -3,7 +3,7 @@ layout: post
 title: 'Working Towards Strengthening Healthcare in Western Kenya'
 author: leilei
 categories:
-  [lwala, kenya, ict4d, healthcare, commcare, salesforce, MoHdata]
+  [case study, lwala, kenya, ict4d, healthcare, commcare, salesforce, MoHdata]
 image: assets/images/lwala1.jpeg
 featured: true
 ---
