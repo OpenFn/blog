@@ -3,7 +3,7 @@ layout: post
 title: 'Building Integrated Systems That "Just Work"'
 author: Taylor 
 categories:
-  [ict4d, social impact, tech, integration]
+  [case study, ict4d, social impact, tech, integration]
 image: assets/images/roads.jpg
 featured: true
 ---
