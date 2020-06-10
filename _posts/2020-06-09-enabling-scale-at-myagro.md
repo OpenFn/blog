@@ -5,6 +5,7 @@ snippet: 'This is just a test'
 author: leilei
 categories:
   [
+    case study,
     agriculture,
     scale,
     automation,
