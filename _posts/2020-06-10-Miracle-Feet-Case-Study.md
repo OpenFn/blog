@@ -12,56 +12,22 @@ categories:
 
 ### Clubfoot affects at least one of every 800 children, making it one of the most common birth defects in the world. 
 
-Small-scale farmers are feeding the world, but a majority of them are in an
-endless cycle of poverty and lack access to traditional banks and financing.
+Clubfoot is a birth defect that affects one in 800 children. MiracleFeet partners with healthcare providers in 26 different countries to deliver a simple surgery that allows children born with clubfoot to walk normally—but without secure, real-time data sharing, these partnerships would be siloed, separated by continents and culture, unable to learn from each other. OpenFn connects this global healthcare network, getting better data into the hands of decision makers, faster, and allowing MiracleFeet to scale up their operations so that every child has access to clubfoot treatment.
 
-[myAgro](https://www.myagro.org/) has pioneered an innovative bankless savings
-plan that allows thousands of farmers to finance themselves and invest their
-money in high-quality seeds, fertilizer, tools, and training. OpenFn automates
-myAgro’s mobile layaway platform, powering a system where farmers can
-incrementally pay for agricultural inputs by purchasing savings vouchers in
-local stores—making deposits via SMS. myAgro holds those layaway payments until
-planting time, when bulk purchases of seeds, fertilizers, and tools are
-delivered to the farmers based on individualized plans.
+[MiracleFeet](http://miraclefeet.org) is a global health organization leveraging technology to improve treatment quality and outcomes for children born with clubfoot in low- and middle-income countries. MiracleFeet is increasing access to clubfoot treatment through partnerships with local healthcare providers, offering organizational, technical, and financial support to clinics in 26 different countries.
 
-### What is myAgro?
+### MiracleFeet develops CAST. 
 
-myAgro helps thousands of farmers in Senegal and Mali save money for seed and
-fertilizer using what they already have—their mobile phone. With a mission to
-move small-scale farmers out of poverty, myAgro leveraged OpenFn to develop a
-mobile layaway platform that connects their Telerivet SMS-based savings deposit
-system, Salesforce farmer tracking & supply chain system, and CommCare
-barcode-scanning mobile app.
+In 2016, MiracleFeet was awarded a [$1M Impact Challenge Grant from Google.org](https://www.miraclefeet.org/2016/04/12/googleorg-awards-miraclefeet-one-million-dollar/) to implement healthcare technology to creatively address areas of clubfoot treatment in need of improvement. MiracleFeet developed a mobile-based data collection system called [CAST](https://www.miraclefeet.org/2018/02/15/new-mobile-app-clubfoot-treatment/), which allows healthcare workers to quickly view and collect patient information both online and offline. CAST supports workflows for clinic health workers, but it does not support reporting and data analysis across multiple clinics. Rather than subject clinic staff to hours of data entry and wait weeks for reports, MiracleFeet decided to invest in an integration solution to ensure accessibility, quality reporting, and timely, data-driven decision-making. 
 
-### Real-time program monitory was needed.
+### MiracleFeet invests in OpenFn to deliver better patient care with secure, real-time health data integration.
 
-In 2014, myAgro utilized Telerivet, an instant SMS and voice platform, to
-capture farmer savings deposits, and paper to track voucher shipments. They
-would then regularly export the SMS data to an Excel spreadsheet, and manually
-match savings deposits against a database of vouchers before allocating credit
-to a farmer’s account and sending a confirmation SMS. Staff spent 1-2 hours per
-day (or 261+ hours per year) on this data reconciliation process, which had high
-potential for human error.
+MiracleFeet implemented OpenFn to deliver a flexible and scalable data integration solution that connects CAST and its central Salesforce health information system, avoiding costly investment (estimated $15,000 for setup alone) in a custom, inflexible integration solution. This OpenFn-powered solution allows MiracleFeet to: 
+- Access and analyze information collected across all clinics in real-time. 
+- Share data analyses and key metrics with other MiracleFeet staff, clubfoot partner organizations, and other external stakeholders. 
+- Easily scale and expand its CAST rollout to other countries, by supporting easy setup of additional mobile-to-Salesforce integrations using OpenFn. 
+
+In 2019, MiracleFeet implemented CAST to support clubfoot treatment in 180+ clinics across 26 countries. As CAST is implemented in additional countries, OpenFn scales and continues to empower MiracleFeet to actively monitor treatment outcomes across all clinics and adjust its programs as needed. Thanks to short trainings on data integration, provided by OpenFn, MiracleFeet staff have also learned to independently adjust the integration solution in minutes to match new country requirements and versions of CAST–saving time and ensuring total solution ownership. 
 
 ![]({{ site.baseurl }}/assets/images/farmers.jpg)
 
-### Where OpenFn Comes In...
-
-OpenFn moved this entire manual process over to the cloud, automating the
-savings deposit system and connecting a CommCare barcode-scanning mobile app for
-real-time farmer order management and inventory tracking. By integrating
-Telerivet and Salesforce, myAgro no longer has to rely on data entries and
-uploads that would take 1-2 hours each day.
-
-OpenFn now processes all SMS messages automatically, builds trust by providing
-instant confirmation to farmers, and eliminates the chance of human error in
-savings allocations. OpenFn helped myAgro transition from managing rows and
-columns of data in an Excel spreadsheet to an automated savings and inventory
-tracking system that enables real-time program monitoring.
-
-- In 2014, myAgro serviced 14,000 farmers across 200 villages in Senegal and
-  Mali.
-- With the help of OpenFn, myAgro worked with 120,000 farmers in 2019, and plans
-  to scale towards their goal of reaching `1 million farmers` by 2025.
-
-Read more about myAgro’s mission [here](https://www.myagro.org/).
