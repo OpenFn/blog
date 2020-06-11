@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Technology isn't the answer, but it shouldn't be the problem'
-author: Taylor
+author: Taylor 
 categories:
-  [ict4d, organization, social impact, structure]
+  [ict4d, Vera Solutions, interoperability, data integration, process automation]
 image: assets/images/informationorganized.jpg
 featured: true
 ---
