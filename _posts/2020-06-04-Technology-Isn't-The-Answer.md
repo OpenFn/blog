@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Technology Isn't The Answer, But It Shouldn't Be The Problem'
+title: 'Technology isn't the answer, but it shouldn't be the problem'
 author: Taylor
 categories:
-  [ict4d, Salesforce, technology, Vera Solutions, tools, Open Data Kit, SurveyCTO]
-image: assets/images/techpic.jpg
+  [ict4d, organization, social impact, structure]
+image: assets/images/informationorganized.jpg
 featured: true
 ---
 
