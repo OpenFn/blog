@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Delivering real-time health updates to enhance analysis and surveillance of disease patterns for SwissTPH'
+snippet: 'This is just a test'
 author: aleksa
 categories:
-  [case study, Miracle Feet, clubfoot, healthcare, CAST]
+  [ case study, Miracle Feet, clubfoot, healthcare, CAST ]
  image: assets/images/miraclefeet1.jpeg
  featured: true
----
+ ---
 
  _ By integrating a CommCare mobile data collection app with a national DHIS2 reporting system for the ALMANACH health initiative, OpenFn has provided SwissTPH with an automated, real-time connection that enables live disease monitoring._
 
