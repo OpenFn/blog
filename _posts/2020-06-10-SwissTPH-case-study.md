@@ -5,10 +5,11 @@ snippet: 'This is just a test'
 author: aleksa
 categories:
   [ case study, Miracle Feet, clubfoot, healthcare, CAST ]
- image: assets/images/miraclefeet1.jpeg
- featured: true
- ---
+image: assets/images/miraclefeet1.jpeg
+featured: true
+---
 
+ _By integrating a CommCare mobile data collection app with a national DHIS2 reporting system for the ALMANACH health initiative, OpenFn has provided SwissTPH with an automated, real-time connection that enables live disease monitoring._
 
 ### SwissTPH: A world-leading institute in global health
 
