@@ -1,3 +1,13 @@
+---
+layout: post
+title: 'Technology isn't the answer, but it shouldn't be the problem'
+author: Taylor
+categories:
+[ict4d, Vera Solutions, interoperability, data integration, process automation]
+image: assets/images/informationorganized.jpg
+featured: true
+---
+
 #### _OpenFn’s first objective is to knock down the technical hurdles so organizations can focus on the important contextual stuff._
 
 <br />
