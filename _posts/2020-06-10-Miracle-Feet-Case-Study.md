@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Delivering better patient care with secure, real-time health data integration across 26 countries'
+title: 'Delivering better patient care with secure, real time health data integration across 26 countries'
 author: aleksa
 categories:
-  [case study, Miracle Feet, clubfoot, healthcare, CAST]
- image: assets/images/miraclefeet1.jpeg
- featured: true
+  [case study, clubfoot, CAST, ict4d, healthcare, salesforce, integration, miracle feet]
+image: assets/images/lwala1.jpeg
+featured: true
 ---
 
  _OpenFn connects MiracleFeet and its healthcare providers, getting better data into the hands of decision makers, faster, and allowing MiracleFeet to scale up their operations so that every child has access to clubfoot treatment._
