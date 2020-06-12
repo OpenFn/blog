@@ -76,6 +76,8 @@ tracking system that enables real-time program monitoring.
   Mali.
 - With the help of OpenFn, myAgro worked with 120,000 farmers in 2019, and plans
   to scale towards its goal of reaching `1 million farmers` by 2025.
+  
+![myagro]({{ site.baseurl }}/assets/images/myagrograph.jpg)
 
 Read more about myAgro’s mission [here](https://www.myagro.org/), and stay tuned
 as myAgro continues to scale its OpenFn implementation.
