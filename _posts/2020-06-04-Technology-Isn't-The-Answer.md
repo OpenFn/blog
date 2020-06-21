@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Technology isn't the answer, but it shouldn't be the problem'
-author: Taylor
+title: 'Enabling Scale at myAgro, 4 Years Later'
+author: Lei Lei
 categories:
-[ict4d, Vera Solutions, interoperability, data integration, process automation]
-image: assets/images/informationorganized.jpg
+  [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
+image: assets/images/myAgro1.JPG
 featured: true
 ---
 
