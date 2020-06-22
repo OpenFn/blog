@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How Information Is Organized... in Organizations'
+title: 'How Information Is Organized... In Organizations'
 author: Taylor 
 categories:
   [ict4d, organization, information, social impact, structure]
