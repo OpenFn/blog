@@ -1,23 +1,18 @@
 ---
 layout: post
-title: 'Enabling Scale at myAgro, 4 Years Later'
-author: Lei Lei
+title: 'Technology Is Not The Answer, But It Should Not Be The Problem'
+author: taylor
 categories:
-  [agriculture, scale, automation, commcare, salesforce, telerivet, sms]
-image: assets/images/myAgro1.JPG
+  [OpenFn, integration platform, ict4d, automation]
+image: assets/images/techpic.jpg
 featured: true
 ---
 
-#### _OpenFn’s first objective is to knock down the technical hurdles so organizations can focus on the important contextual stuff._
-
-<br />
+_OpenFn’s first objective is to knock down the technical hurdles so organizations can focus on the important contextual stuff._
 
 _This article was originally posted by Taylor Downs, Head of Product, on [The OpenFn Founder's blog](https://medium.com/@taylordowns2000) as "Technology isn't the answer, but it shouldn't be the problem."_
 
 March 23, 2015 — Salesforce Foundation hosted this blog [post.](https://www.salesforce.org/technology-isnt-answer-shouldnt-problem/)
-
-<br />
-
 
 Three out of four IT implementations fail. While this is an accepted rate in the corporate world where CEOs are accustomed to doubling down, conflicting pressures and tighter budgets in the social-impact space push the chance of failure even higher. Without good data, decision makers from the field to the boardroom are hamstrung. Technology alone is never going to solve social problems, but the inability to get it right has and will continue to sink promising development programs. We built [openfn.org](http://www.openfn.org) to address this problem.
 
@@ -38,7 +33,6 @@ Figuring out the people and the processes, that’s always going to be the harde
 We see a future where the technical setup of a mobile money platform, a biometrics tool, even an offline clinic registration platform, feels just like downloading an app from the app store.
 
 We’re still a long way from that reality, but we’ve built an [open-core](https://www.openfn.org/pricing#open-source) integration platform that’s poised to bring together the “technology for development” landscape with clicks, not code. Our team of integration specialists and [Apps page](http://openfn.org/apps) guide users to the right tools based on their needs, our blog will feature in-depth case studies and implementation guides, and our jobs engine fast-tracks setup of robust integration and automation solutions, enabling our users to get data flowing from one technology to another in just a few minutes.
-
 
 ### This is where we stand.
 
