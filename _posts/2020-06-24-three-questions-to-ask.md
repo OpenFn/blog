@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '3 Questions About Whether Or Not To Automate'
+title: 'To Automate Or Not To Automate? Ask Yourself These 3 Questions.'
 author: aleksa
 categories: [implementation, automation, integration]
 image: assets/images/questions1.jpeg
-featured: true
+featured: false
 ---
 
 _Automation can save time, unlock critical resources, and enable scale–but it
