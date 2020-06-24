@@ -11,18 +11,18 @@ _Automation can save time, unlock critical resources, and enable scale–but it
 typically requires investment to set up. Wondering whether you should automate
 your processes? Ask yourself these 3 questions._
 
-### To date, Open Function Group has worked with 43 social sector organizations worldwide that operate across many sectors including health, education, agriculture, livelihoods, and emergency response.
+### Our partners use [OpenFn](https://openfn.org) automation solutions to drive efficiency and scale their processes, delivering integrated digital systems that work better, faster, and together.
 
-These organizations used [OpenFn](https://openfn.org) automation solutions to
-drive efficiency and scale their processes, delivering integrated digital
-systems that work better, faster, and together. Over the last 6 years, OpenFn
-has been implemented for a wide range of use cases, including building real-time
-data monitoring systems, streamlining data cleaning pipelines, securely
-exchanging sensitive information, and automating routine processes like
-uploading indicator results, sending SMS/email alerts, or making mobile
-payments. (Read more about [OpenFn solutions](https://openfn.org/solutions).)
+To date, we have worked with 43 social sector organizations that operate across
+sectors, including health, education, agriculture, livelihoods, and emergency
+response. Over the last 6 years, OpenFn has been implemented worldwide for a
+wide range of use cases, including building real-time data monitoring systems,
+streamlining data cleaning pipelines, securely exchanging sensitive information,
+and automating routine processes like uploading indicator results, sending
+SMS/email alerts, or making mobile payments. (Read more about
+[OpenFn solutions](https://openfn.org/solutions).)
 
-By connecting any app, OpenFn can integrate and automate all apps across a
+By connecting any app, OpenFn can integrate and automate all apps within a
 digital ecosystem. However, a question that we frequently ask our partners is:
 
 #### Just because you _can_ automate—_should_ you?
