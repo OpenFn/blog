@@ -60,12 +60,13 @@ Tasks that meet these 3 criteria, take a lot of time to complete or are very
 repetitive, and/or involve moving data between apps are typically great
 candidates for automation.
 
+
 If you find yourself answering “no”, then it may not be worth the investment in
 automation... at least not yet. This is especially true if these processes are
 still in flux or require a lot of human involvement to complete. That said, now
 may be a good time to refine your existing workflows, think about how your
-processes might change at scale, and consider what _new_ processes, services,
-or outcomes could be unlocked by automation.
+processes might change at scale, and consider what _new_ processes, services, or
+outcomes could be unlocked by automation.
 
 ### Delegate your busywork to OpenFn, and try it today!
 
@@ -75,6 +76,5 @@ If you want to try out automation for your organization,
 to learn how to get started.
 
 Having trouble setting up your first automation "job"? Email us at
-[admin@openfn.org.](mailto:admin@openfn.org_) for support. Our team of ICT4D
-specialists is always happy to assist and help you evaluate the total cost of
+[admin@openfn.org](mailto:admin@openfn.org_) for support. Our team is always happy to assist and help you evaluate the total cost of
 ownership of automation solutions.
