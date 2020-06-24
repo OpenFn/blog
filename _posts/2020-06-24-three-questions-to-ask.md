@@ -11,7 +11,7 @@ _Automation can save time, unlock critical resources, and enable scale–but it
 typically requires investment to set up. Wondering whether you should automate
 your processes? Ask yourself these 3 questions._
 
-# To date, Open Function Group has worked with 43 social sector organizations worldwide that operate across many sectors including health, education, agriculture, livelihoods, and emergency response.
+### To date, Open Function Group has worked with 43 social sector organizations worldwide that operate across many sectors including health, education, agriculture, livelihoods, and emergency response.
 
 These organizations implemented [OpenFn](https://openfn.org) automation
 solutions to drive efficiency and scale their processes, delivering integrated
@@ -26,7 +26,7 @@ making mobile payments. (Read more about
 can integrate and automate all apps across a digital ecosystem. However, a
 question that we frequently ask our partners is:
 
-##### Just because you _can_ integrate and automate—_should_ you?
+### Just because you _can_ integrate and automate—_should_ you?
 
 While integration and automation have the potential to enable scale and save
 time and money (we’ve learned this from our
@@ -36,16 +36,17 @@ service outcomes. Therefore, when helping organizations to evaluate the
 cost-benefit of investing in automation and integration solutions, we at Open
 Function Group typically ask 3 key questions:
 
+
 ### 1. Security — Will automation limit the exposure of sensitive data?
 
-Can the exposure of sensitive data be limited by integrating with secure API
+<p>Can the exposure of sensitive data be limited by integrating with secure API
 endpoints (rather than relying on human beings to interact with those data, for
-example)? Or by automating a data cleaning process?
+example)? Or by automating a data cleaning process? </p>
 
 ### 2. Accuracy — Will automation increase data accuracy and reduce data entry errors?
 
-Can the process take place more reliably by limiting the opportunity for human
-error (in automating data manipulation or simple algorithmic work, for example)?
+_Can the process take place more reliably by limiting the opportunity for human
+error (in automating data manipulation or simple algorithmic work, for example)?_
 
 ### 3. Speed — Will automation increase the speed of impact?
 
@@ -68,8 +69,9 @@ _new_ processes, services, or outcomes could be unlocked by automation.
 ### Start automating on OpenFn today
 
 If you want to try out automation for your organization,
-[sign up](https://openfn.org/signup) _for free_ to try out OpenFn today. Check
- out [our documentation](https://docs.openfn.org/) and our [website](http://openfn.org) to learn more.
+[sign up](https://openfn.org/signup) for OpenFn, free of charge. Check out
+[our documentation](https://docs.openfn.org/) and [website](http://openfn.org)
+to learn more.
 
 Having trouble getting started? Email us at
 [admin@openfn.org.](mailto:admin@openfn.org_) for support. Our team of ICT4D
