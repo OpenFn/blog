@@ -12,7 +12,7 @@ _OpenFn’s first objective is to knock down the technical hurdles so organizati
 
 _This article was originally posted by Taylor Downs, Head of Product, on [The OpenFn Founder's blog](https://medium.com/@taylordowns2000) as "Technology isn't the answer, but it shouldn't be the problem."_
 
-March 23, 2015 — Salesforce Foundation hosted this blog [post.](https://www.salesforce.org/technology-isnt-answer-shouldnt-problem/)
+March 23, 2015 — Salesforce Foundation originally published [this blog post.](https://www.salesforce.org/technology-isnt-answer-shouldnt-problem/)
 
 Three out of four IT implementations fail. While this is an accepted rate in the corporate world where CEOs are accustomed to doubling down, conflicting pressures and tighter budgets in the social-impact space push the chance of failure even higher. Without good data, decision makers from the field to the boardroom are hamstrung. Technology alone is never going to solve social problems, but the inability to get it right has and will continue to sink promising development programs. We built [openfn.org](http://www.openfn.org) to address this problem.
 

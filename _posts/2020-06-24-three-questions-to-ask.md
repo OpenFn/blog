@@ -40,12 +40,12 @@ Can the exposure of sensitive data be limited by integrating with secure API
 endpoints (rather than relying on human beings to interact with those data, for
 example)? Or by automating a data cleaning process?
 
-#### 2. Accuracy — Will automation increase data accuracy and reduce data entry errors?
+#### 1. Accuracy — Will automation increase data accuracy and reduce data entry errors?
 
 Can the process take place more reliably by limiting the opportunity for human
 error (in automating data manipulation or simple algorithmic work, for example)?
 
-#### 3. Speed — Will automation increase the speed of impact?
+#### 1. Speed — Will automation increase the speed of impact?
 
 Can the process be done more quickly via automation and is there value in having
 it done faster? (The answer to the first part is almost always yes, but

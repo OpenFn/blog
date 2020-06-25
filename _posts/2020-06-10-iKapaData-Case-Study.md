@@ -18,11 +18,11 @@ The census plays an important role in public administration by creating a compil
 
 ![]({{ site.baseurl }}/assets/images/ikapa1.jpg)
 
-#### Only problem was they did not have a way to actively monitor the enumerators' data collection. 
+#### iKapaData had no way to actively monitor data collection activities on the ground. 
 
 As enumerators collected the census data, iKapaData wanted to analyze that dataset using two reporting applications, [Carto](https://carto.com/) and [Zoho](https://www.zoho.com/) – each with its own data model and required formats. To upload the data into the two reporting systems, iKapaData would have to rely on time-intensive manual data migration, and there was no easy way to actively monitor the census data collection. 
 
-#### How live data monitoring was eventually enabled: 
+#### Real-time data integration enabled live survey monitoring and quicker analysis.
 
 OpenFn automation saved the iKapaData team valuable time typically spent on manual data entry and cleaning processes. Using OpenFn, iKapaData set up automated data cleaning and reporting pipelines that: 
 - Automatically extracted data from SurveyCTO on a scheduled basis,

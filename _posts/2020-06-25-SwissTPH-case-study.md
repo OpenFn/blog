@@ -16,11 +16,11 @@ The diverse professionals working at [SwissTPH](https://www.swisstph.ch/en/) all
 
 SwissTPH is a global health institute focusing on infectious and non-communicable diseases, health system, interventions, and environment. It aims to improve population health, nationally and internationally, through a better understanding of disease and healthcare systems.
 
-#### However, they had a problem. They had no way to monitor the diagnoses and treatments of sick children in Nigeria in real-time. 
+#### SwissTPH had no way to monitor the diagnoses and treatments of sick children in Nigeria in real-time. 
 
  To analyze disease patterns across health facilities, SwissTPH researchers would have to wait days until staff members exported, cleaned, and uploaded the diagnoses data collected to DHIS2—a time-consuming data process, prone to human error. 
 
-#### Where OpenFn comes in:
+#### OpenFn helps to bridge the time gap between data collection and analysis.
 
 OpenFn eliminates time lags, saving SwissTPH money and time and sending critical patient information where and when it is needed, faster. By integrating a CommCare mobile data collection app with a national DHIS2 reporting system for the ALMANACH health initiative, OpenFn has provided SwissTPH with an automated, real-time connection that enables live disease monitoring. 
 
