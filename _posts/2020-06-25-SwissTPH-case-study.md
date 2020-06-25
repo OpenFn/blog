@@ -25,3 +25,5 @@ SwissTPH is a global health institute focusing on infectious and non-communicabl
 OpenFn eliminates time lags, saving SwissTPH money and time and sending critical patient information where and when it is needed, faster. By integrating a CommCare mobile data collection app with a national DHIS2 reporting system for the ALMANACH health initiative, OpenFn has provided SwissTPH with an automated, real-time connection that enables live disease monitoring. 
 
 Every day the OpenFn automated reporting solution delivers 300 beneficiary case updates and logs events with 100 individual “data elements” in DHIS2. The solution runs on Switzerland-based cloud servers to ensure compliance with SwissTPH’s data residency concerns. 
+
+_The photo above was originally posted on the SwissTPH News [site](https://www.swisstph.ch/de/swiss-tph-news/news-detail-d/news/improving-health-of-children-in-nigeria/). The Almanach tablet-based decision support tool supports health workers in diagnosing and treating sick children. OpenFn integrates this data with DHIS2 for real-time reporting._
