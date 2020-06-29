@@ -3,11 +3,13 @@ layout: post
 title: 'Allow yourself to fail'
 author: taylor
 categories: [how-to, mssql, db, idempotency]
+image: assets/images/designforfailure.jpg
+featured: true
 ---
 
 Hi all, this is a very short post with a simple message: design for failure.
 
-We just extended our language-mssql adaptor with a custom function that allows
+We just extended our [language-mssql adaptor](https://github.com/OpenFn/language-mssql) with a custom function that allows
 upserts (an `upsert` is when you either insert a new record or update an
 existing record based on some identifier). Before, you'd need to write something
 tedious like:
@@ -39,7 +41,7 @@ developer term called "idempotence".
 
 For an operation to be idempotent means that it can be repeated time and time
 again without producing an unintended result. This is SUPER important for
-creating S3 (more on that here) integrations because it provides you with two
+creating S3 (more on that [here](https://openfn.org/trust)) integrations because it provides you with two
 "get-out-of-jail-free" cards.
 
 1. If a destination application fails, if a connection times out, or if (for
