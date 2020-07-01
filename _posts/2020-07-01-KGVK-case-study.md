@@ -12,7 +12,7 @@ categories:
     ODK,
     Salesforce,
   ]
-image: assets/images/myAgro1.JPG
+image: assets/images/kgvk.jpg
 featured: true
 ---
 
