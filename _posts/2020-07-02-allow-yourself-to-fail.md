@@ -35,13 +35,13 @@ upsert('my_table', 'some_unique_id', {
 });
 ```
 
-Here's the thing: even if you've never heard of MSSQL (or Azure, or Microsoft?),
+Here's the thing: even if you've never heard of [MSSQL](https://www.microsoft.com/en-us/sql-server) (or [Azure](https://azure.microsoft.com/en-us/), or Microsoft?),
 I want to talk for one moment about the importance of upserts and a funny
 developer term called "idempotence".
 
 For an operation to be idempotent means that it can be repeated time and time
 again without producing an unintended result. This is SUPER important for
-creating S3 (more on that [here](https://openfn.org/trust)) integrations because it provides you with two
+creating S3 (more on that [here](https://openfn.org/trust) integrations because it provides you with two
 "get-out-of-jail-free" cards.
 
 1. If a destination application fails, if a connection times out, or if (for
