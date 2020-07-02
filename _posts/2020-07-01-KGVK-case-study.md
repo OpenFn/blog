@@ -16,7 +16,7 @@ image: assets/images/kgvk.jpg
 featured: true
 ---
 
-_In the past, it took KGVK months to digitize and analyze the data received from the survey before sharing static reports with key staff. Now using OpenFn, KGVK is able to monitor data in near-time and better serve the needs of their communities. _
+_In the past, it took KGVK months to digitize and analyze the data received from the survey before sharing static reports with key staff. Now using OpenFn, KGVK is able to monitor data in near-time and better serve the needs of their communities._
 
 ### KGVK is a non-profit organization with a mission to improve the livelihood of Jharkhand villagers.
 
