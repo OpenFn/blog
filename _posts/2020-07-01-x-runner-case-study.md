@@ -11,7 +11,7 @@ categories:
     integrated service system,
     sanitation,
   ]
-image: assets/images/airport.jpeg
+image: assets/images/x-runner.jpeg
 featured: true
 ---
 
