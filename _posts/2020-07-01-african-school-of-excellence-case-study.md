@@ -17,7 +17,7 @@ image: assets/images/myAgro1.JPG
 featured: true
 ---
 
-_Before OpenFn, ASE had a rich student data set, but because it was diverse and spread across so many sources, it couldn't easily be analyzed. OFG delivered a centralized, single-view solution for monitoring students and sharing data across schools._
+_ASE had diverse data spread across so many sources that it couldn't easily be analyzed. OFG delivered a centralized, single-view solution for monitoring students and sharing data across schools._
 
 ### African School of Excellence and their mission:
 
