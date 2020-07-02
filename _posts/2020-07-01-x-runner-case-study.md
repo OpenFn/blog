@@ -11,7 +11,7 @@ categories:
     integrated service system,
     sanitation,
   ]
-image: assets/images/x-runner.jpeg
+image: assets/images/x-runner.jpg
 featured: true
 ---
 
@@ -27,7 +27,7 @@ x-runner is a social enterprise that provides a reliable, safe, and sustainable 
 
 x-runner managed its operations through paper forms, Excel spreadsheets, Open Data Kit (ODK) Collect mobile app, and Google Drive. With so many offline and online platforms, information was often scattered, making managing customers and tracking customer feedback difficult and time-consuming. 
 
-### x-runner after OpenFn:
+### OpenFn faciliates an integrated supply chain system. 
 
 x-runner implemented OpenFn to connect its existing systems and sync data with a new Salesforce database to more effectively manage and monitor waste collection activities. With integrated systems the process now works as follows: 
 - x-runner service operators pick up waste containers, scan a NFC tag attached to the container to pull up customer details, log service information via ODKCollect.
