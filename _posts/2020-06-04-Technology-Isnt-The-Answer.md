@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Technology Is Not The Answer, But It Should Not Be The Problem'
+title: 'Technology Is Not The Answer, but It Should Not Be The Problem'
 author: taylor
 categories:
   [OpenFn, integration platform, ict4d, automation]
