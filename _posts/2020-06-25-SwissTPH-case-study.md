@@ -3,7 +3,7 @@ layout: post
 title: 'Real-Time Disease Monitoring for SwissTPH'
 author: leilei
 categories:
-  [ case study, CommCare, DHIS2, SwissTPH, ALMANACH health initiative, healthcare, disease monitoring ]
+  [ case study, CommCare, DHIS2, healthcare, data monitoring ]
 image: assets/images/swisstph1.jpg
 featured: false
 ---
