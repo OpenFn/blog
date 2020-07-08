@@ -12,7 +12,7 @@ categories:
     IBM Maximo,
   ]
 image: assets/images/airport.jpeg
-featured: true
+featured: false
 ---
 
 _With real-time data syncs, OpenFn helps this airport ensure top-quality assets and service for its workers and passengers. This integrated asset management system saves time and money, and prevents errors by reducing manual, paper-based data transfer between systems._
