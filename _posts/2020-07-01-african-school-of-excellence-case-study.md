@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Building An Integrated Data Warehouse To Track and Share Student Performance'
+title: 'Building an Integrated Data Warehouse to Track and Share Student Performance'
 author: leilei
 categories:
   [
