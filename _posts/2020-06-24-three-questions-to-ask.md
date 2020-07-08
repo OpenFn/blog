@@ -2,7 +2,7 @@
 layout: post
 title: 'To Automate or Not to Automate? Ask Yourself These 3 Questions.'
 author: aleksa
-categories: [implementation, automation, integration]
+categories: [ict4d, automation, interoperability, design]
 image: assets/images/questions1.jpeg
 featured: true
 ---
