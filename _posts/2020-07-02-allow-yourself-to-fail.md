@@ -7,11 +7,9 @@ image: assets/images/designforfailure.jpg
 featured: true
 ---
 
-Hi all, this is a very short post with a simple message: design for failure.
+Hi all, this is a very short post with a simple message: design for failure. I want to talk for one moment about the importance of upserts and a funny developer term called "idempotence."
 
-We just extended our [language-mssql adaptor](https://github.com/OpenFn/language-mssql) with a custom function that allows
-upserts (an `upsert` is when you either insert a new record or update an
-existing record based on some identifier). Before, you'd need to write something
+We just extended our [language-mssql adaptor](https://github.com/OpenFn/language-mssql) with a custom function that allows upserts (an `upsert` is when you either insert a new record or update an existing record based on some identifier). Before, you'd need to write something
 tedious like:
 
 ```js
@@ -37,7 +35,7 @@ upsert('my_table', 'some_unique_id', {
 
 Here's the thing: even if you've never heard of [MSSQL](https://www.microsoft.com/en-us/sql-server) (or [Azure](https://azure.microsoft.com/en-us/), or Microsoft?),
 I want to talk for one moment about the importance of upserts and a funny
-developer term called "idempotence".
+developer term called "idempotence."
 
 For an operation to be idempotent means that it can be repeated time and time
 again without producing an unintended result. This is SUPER important for
