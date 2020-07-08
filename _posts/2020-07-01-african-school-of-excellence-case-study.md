@@ -5,12 +5,10 @@ author: leilei
 categories:
   [
     case study,
-    African School of Excellence,
-    data integration,
-    data warehouse,
     PostgreSQL,
     Redash,
     education,
+    interoperability
   ]
 image: assets/images/ase.jpg
 featured: false
