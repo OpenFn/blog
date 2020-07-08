@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helping An Airport Soar: Synchronizing Asset Data Between The Tarmac And HQ'
+title: 'Helping an Airport Soar: Synchronizing Asset Data Between the Tarmac and HQ'
 author: leilei
 categories:
   [
