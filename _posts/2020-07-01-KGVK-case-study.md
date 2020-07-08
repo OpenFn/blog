@@ -1,32 +1,31 @@
 ---
 layout: post
-title: 'Providing Instant Analysis For Household Surveys For KGVK'
+title: 'Enhanced Data Access And Monitoring For Household Surveys'
 author: leilei
 categories:
   [
     case study,
     KGVK,
     TVM,
-    automation,
-    integration,
+    data integration,
     ODK,
     Salesforce,
   ]
 image: assets/images/kgvk.jpg
-featured: true
+featured: false
 ---
 
-_In the past, it took KGVK months to digitize and analyze the data received from the survey before sharing static reports with key staff. Now using OpenFn, KGVK is able to monitor data in near-time and better serve the needs of their communities._
+_In the past, it took KGVK months to digitize and analyze survey data before sharing reports with key staff. Using OpenFn, KGVK was able to monitor data in near real-time and better serve the needs of its communities._
 
-### KGVK is a non-profit organization with a mission to improve the livelihood of Jharkhand villagers.
+### KGVK is a non-profit organization with a mission to improve the livelihood of Jharkhand villagers in India.
 
-KGVK has developed an integrated approach called the Total Village Management model (TVM). This approach, adapted to the rural setting, focuses on different key areas: natural resources management, education, renewable energy, livelihood, women’s empowerment, capacity building, resource mobilisation, infrastructure development, and health, nutrition, and sanitation. 
+KGVK has developed an integrated approach to development called the [Total Village Management model (TVM)](https://www.kgvk.org/tvm.html). This approach, adapted to the rural setting, focuses on different key areas: natural resources management, education, renewable energy, livelihood, women’s empowerment, capacity building, resource mobilisation, infrastructure development, and health, nutrition, and sanitation. 
 
-As part of the TVM intervention, KGVK administers an in-depth household survey to tens of thousands of beneficiaries around Jharkhand each year. This survey allows them to evaluate access to education, financial services, healthcare, and agriculture across the villages.
+As part of its TVM intervention, KGVK administers an in-depth household survey to tens of thousands of beneficiaries around Jharkhand each year. This survey allows KGVK to evaluate access to education, financial services, healthcare, and agriculture across the villages.
 
-### However, it took KGVK months to digitize and analyze the data received from the household surveys before sharing static reports with key staff. 
+### Without data integration, it took KGVK months to digitize, analyze, and report on the survey data. 
 
-Using OpenFn to configure ODK-to-Salesforce integration, KGVK was able to access dynamic dashboards of the village surveys. The ability to monitor data in near real-time enabled  faster analysis of the surveys so that KGVK could more quickly adjust their programs to better serve the needs of their communities. 
+Using OpenFn to configure a ODK-to-Salesforce integration, KGVK was able to connect is mobile survey collection tool (ODK) with its M&E database (Salesforce). The real-time data flow enabled KGVK to build dynamic dashboards to monitor the village surveys, ensuring faster analysis. With enhanced data access, KGVK can more regularly evaluate and adjust its programs to better serve the needs of the Jharkhand communities it serves. 
 
 _The photo above was originally posted on the KGVK Achievements [site](https://www.kgvk.org/achievements.html)._
 
