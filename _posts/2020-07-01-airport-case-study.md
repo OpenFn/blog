@@ -5,8 +5,6 @@ author: leilei
 categories:
   [
     case study,
-    airport,
-    data integration,
     automation,
     commcare,
     IBM Maximo,
