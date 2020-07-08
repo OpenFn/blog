@@ -6,14 +6,10 @@ author: leilei
 categories:
   [
     case study,
-    agriculture,
-    scale,
-    automation,
     commcare,
     salesforce,
     telerivet,
     sms,
-    supply chain,
   ]
 image: assets/images/myAgro1.JPG
 featured: true
