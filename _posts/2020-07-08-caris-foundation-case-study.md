@@ -34,7 +34,7 @@ As part of Caris Foundation’s health worker outreach program, community health
 
 Caris implemented CommCare to enable CHWs to collect data offline via mobile phone when working in remote environments. However, all data collected for analysis, such as beneficiary profiles, services received, and follow-up visits, needed to be manually transcribed via paper copies into the HIV Haiti MySQL database. This process would take a week (and up to several months) to complete, and sometimes the data collected would  never make it to the database.
 
-### OpenFn saves Caris Foundation staff thousands of hours, leveraging data integration for live, automated reporting. 
+### OpenFn data integration saves Caris Foundation staff thousands of hours, enabling live, automated reporting. 
 
 OpenFn automatically processes and uploads data from approximately 5000 HIV visits every month. Once in the database, the Caris Foundation is able to track the progress of mothers and children as services are delivered in the field.
 
