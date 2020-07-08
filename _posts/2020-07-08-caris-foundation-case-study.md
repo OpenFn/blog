@@ -6,9 +6,7 @@ categories:
   [
     case study,
     automation,
-    integration,
-    HIV,
-    Haiti,
+    healthcare,
     MySQL,
     CommCare,
   ]
