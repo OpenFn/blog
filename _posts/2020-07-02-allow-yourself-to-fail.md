@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Allow Yourself To Fail'
+title: 'Allow Yourself to Fail'
 author: taylor
 categories: [how-to, mssql, db, idempotency]
 image: assets/images/designforfailure.jpg
