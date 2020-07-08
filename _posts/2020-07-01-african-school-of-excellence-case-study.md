@@ -13,7 +13,7 @@ categories:
     education,
     data warehouse,
   ]
-image: assets/images/myAgro1.JPG
+image: assets/images/ase.jpg
 featured: true
 ---
 
@@ -37,3 +37,7 @@ ASE used Google, Khan Academy, EdAdmin, and a custom built survey app to track s
 - Enabled data sharing across teachers, partners, and schools. 
 
 By building an integrated data warehouse , OFG delivered a centralized, single-view solution for monitoring students and sharing data across schools. With OpenFn, ASE has  access to student data like never before. 
+
+The photo above was originally posted on the Wikimedia [site](https://commons.wikimedia.org/wiki/File:WikiAfrica_Schools_training_African_School_for_Excellence_(23).jpg) under "WikiAfrica Schools training Africa School of Excellence."
+
+
