@@ -24,7 +24,7 @@ Almost 10 million people in Peru, or 30% of the total population, do not have ac
 
 ### X-runner used multiple technologies to manage its work.
 
-x-runner managed its operations through paper forms, Excel spreadsheets, OpenDataKit (ODK) Collect mobile app, and Google Drive. With so many offline and online platforms, information was often scattered, making managing customers and tracking customer feedback difficult and time-consuming. 
+X-runner managed its operations through paper forms, Excel spreadsheets, OpenDataKit (ODK) Collect mobile app, and Google Drive. With so many offline and online platforms, information was often scattered, making managing customers and tracking customer feedback difficult and time-consuming. 
 
 ### OpenFn helped X-runner build an integrated supply chain system. 
 
