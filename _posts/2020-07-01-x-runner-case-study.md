@@ -8,11 +8,10 @@ categories:
     NFC,
     ODK,
     Salesforce,
-    integrated service system,
-    sanitation,
+    WASH,
   ]
 image: assets/images/x-runner.jpg
-featured: true
+featured: false
 ---
 
 _x-runner implemented OpenFn to connect its existing systems and sync data with a new Salesforce database to more effectively manage and monitor waste collection activities. With this integrated service system, x-runner can deliver high quality customer service and technical assistance to their customers, with no time lag._
