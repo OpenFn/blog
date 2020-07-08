@@ -5,7 +5,7 @@ author: leilei
 categories:
   [
     case study,
-    supply chain,
+    automation
     ODK,
     Salesforce,
     WASH,
