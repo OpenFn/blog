@@ -11,7 +11,7 @@ categories:
     ODK,
     Salesforce,
   ]
-image: assets/images/kgvk.jpg
+image: assets/images/kgvk.v2.png
 featured: false
 ---
 
