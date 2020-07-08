@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Better Sanitation For Low-Income Urban Families Using An Integrated Supply Chain System'
+title: 'Better Sanitation for Low-Income Urban Families Using an Integrated Supply Chain System'
 author: leilei
 categories:
   [
