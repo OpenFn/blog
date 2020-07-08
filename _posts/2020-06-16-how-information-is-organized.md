@@ -5,7 +5,7 @@ author: taylor
 categories:
   [ict4d, organization, information, social impact, data model, scale]
 image: assets/images/informationorganized.jpg
-featured: true
+featured: false
 ---
 
 #### _Does your organization's information have an underlying structure? Try this exercise using boxes and crow's feet._
