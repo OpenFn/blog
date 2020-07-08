@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'To Automate Or Not To Automate? Ask Yourself These 3 Questions.'
+title: 'To Automate or Not to Automate? Ask Yourself These 3 Questions.'
 author: aleksa
 categories: [implementation, automation, integration]
 image: assets/images/questions1.jpeg
