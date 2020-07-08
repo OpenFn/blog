@@ -5,11 +5,9 @@ author: leilei
 categories:
   [
     case study,
-    KGVK,
-    TVM,
-    data integration,
     ODK,
     Salesforce,
+    data monitoring
   ]
 image: assets/images/kgvk.v2.png
 featured: false
