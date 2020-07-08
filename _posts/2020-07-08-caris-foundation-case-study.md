@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tracking Real-Time Progress of HIV-Affected Communities In Haiti'
+title: 'Tracking Real-Time Progress of HIV-Affected Communities in Haiti'
 author: leilei
 categories:
   [
