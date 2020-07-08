@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enhanced Survey Monitoring And Quicker Analysis For Program Improvement in India'
+title: 'Enhanced Survey Monitoring and Quicker Analysis for Program Improvement in India'
 author: leilei
 categories:
   [
