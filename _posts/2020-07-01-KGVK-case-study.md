@@ -7,8 +7,7 @@ categories:
     case study,
     education, 
     healthcare, 
-    sanitation,
-    development
+    development,
     ODK,
     Salesforce,
     data monitoring,
