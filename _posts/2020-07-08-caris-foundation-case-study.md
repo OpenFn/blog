@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tracking Real-Time Progress of HIV-Affected Communities in Haiti'
-author: leilei
+author: taylor
 categories:
   [
     case study,
@@ -16,7 +16,7 @@ featured: true
 
 _OpenFn data integration has enabled the Caris Foundation to "work towards a better experience for the patient, for the agent, and for external reporting."_
 
-_This post was originally published by Taylor Downs, Head of Product, on [The OpenFn Founder’s blog](https://medium.com/@taylordowns2000/supporting-communities-affected-by-hiv-98eede455050) as “Supporting Communities Affected by HIV.”_
+_This post was published by Taylor Downs, Head of Product, on [The OpenFn Founder’s blog](https://medium.com/@taylordowns2000/supporting-communities-affected-by-hiv-98eede455050) as “Supporting Communities Affected by HIV.” Some changes and updates have been made._
 
 ### Who is the Caris Foundation and what do they do?
 
