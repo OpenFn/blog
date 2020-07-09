@@ -8,7 +8,8 @@ categories:
     PostgreSQL,
     Redash,
     education,
-    interoperability
+    data warehouse, 
+    automated reporting
   ]
 image: assets/images/ase.jpg
 featured: false
