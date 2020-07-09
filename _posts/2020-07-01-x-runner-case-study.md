@@ -6,7 +6,7 @@ categories:
   [
     case study,
     development, 
-    healthcare
+    healthcare,
     ODK,
     Salesforce,
     WASH,
