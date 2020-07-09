@@ -3,7 +3,7 @@ layout: post
 title: 'Technology Is Not The Answer, but It Should Not Be The Problem'
 author: taylor
 categories:
-  [open-core]
+  [OpenFn Advice]
 image: assets/images/technology1.jpg.jpg
 featured: false
 ---
