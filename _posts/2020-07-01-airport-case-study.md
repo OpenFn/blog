@@ -6,6 +6,7 @@ categories:
   [
     case study,
     CommCare,
+    development,
     IBM Maximo,
     automated reporting
   ]
