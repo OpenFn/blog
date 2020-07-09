@@ -7,7 +7,8 @@ categories:
     case study,
     ODK,
     Salesforce,
-    data monitoring
+    data monitoring,
+    automated reporting
   ]
 image: assets/images/kgvk.v2.png
 featured: false
