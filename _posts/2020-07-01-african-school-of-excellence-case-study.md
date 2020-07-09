@@ -5,7 +5,7 @@ author: leilei
 categories:
   [
     case study,
-    education
+    education,
     PostgreSQL,
     Redash,
     education,
