@@ -6,7 +6,7 @@ author: leilei
 categories:
   [
     case study,
-    healthcare,
+    agriculture,
     CommCare,
     Salesforce,
     Telerivet,
