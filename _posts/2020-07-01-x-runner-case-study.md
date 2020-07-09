@@ -5,6 +5,8 @@ author: leilei
 categories:
   [
     case study,
+    development, 
+    healthcare
     ODK,
     Salesforce,
     WASH,
