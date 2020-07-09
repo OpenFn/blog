@@ -3,7 +3,7 @@ layout: post
 title: 'Building Integrated Systems That Just Work'
 author: taylor 
 categories:
-  [ict4d, social impact, design]
+  [DHIS2, CommCare, Salesforce, Kobo Toolbox]
 image: assets/images/roads.jpg
 featured: false
 ---
