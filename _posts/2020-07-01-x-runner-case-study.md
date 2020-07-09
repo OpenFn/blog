@@ -5,10 +5,10 @@ author: leilei
 categories:
   [
     case study,
-    automation
     ODK,
     Salesforce,
     WASH,
+    supply chain system
   ]
 image: assets/images/x-runner.jpg
 featured: false
