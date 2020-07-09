@@ -2,7 +2,7 @@
 layout: post
 title: 'To Automate or Not to Automate? Ask Yourself These 3 Questions.'
 author: aleksa
-categories: [ict4d, automation, interoperability, design]
+categories: [OpenFn Advice]
 image: assets/images/questions1.jpeg
 featured: true
 ---
