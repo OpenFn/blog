@@ -7,10 +7,10 @@ categories:
   [
     case study,
     healthcare,
-    commcare,
-    salesforce,
-    telerivet,
-    sms,
+    CommCare,
+    Salesforce,
+    Telerivet,
+    SMS,
   ]
 image: assets/images/myAgro1.JPG
 featured: true
