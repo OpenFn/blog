@@ -5,6 +5,10 @@ author: leilei
 categories:
   [
     case study,
+    education, 
+    healthcare, 
+    sanitation,
+    development
     ODK,
     Salesforce,
     data monitoring,
