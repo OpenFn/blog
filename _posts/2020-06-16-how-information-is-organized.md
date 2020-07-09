@@ -3,7 +3,7 @@ layout: post
 title: 'How Information Is Organized... In Organizations'
 author: taylor 
 categories:
-  [data organization]
+  [OpenFn Advice]
 image: assets/images/informationorganized.jpg
 featured: false
 ---
