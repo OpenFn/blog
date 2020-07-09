@@ -3,7 +3,7 @@ layout: post
 title: 'Building Integrated Systems That Just Work'
 author: taylor 
 categories:
-  [DHIS2, CommCare, Salesforce, Kobo Toolbox]
+  [OpenFn Advice]
 image: assets/images/roads.jpg
 featured: false
 ---
