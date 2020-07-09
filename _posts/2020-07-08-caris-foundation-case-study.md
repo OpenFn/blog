@@ -5,7 +5,6 @@ author: taylor
 categories:
   [
     case study,
-    automation,
     healthcare,
     MySQL,
     CommCare,
