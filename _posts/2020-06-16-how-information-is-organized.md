@@ -3,7 +3,7 @@ layout: post
 title: 'How Information Is Organized... In Organizations'
 author: taylor 
 categories:
-  [ict4d, social impact, design]
+  [data organization]
 image: assets/images/informationorganized.jpg
 featured: false
 ---
