@@ -10,6 +10,7 @@ categories:
     CommCare,
     Salesforce,
     Telerivet,
+    data monitoring,
     SMS,
   ]
 image: assets/images/myAgro1.JPG
