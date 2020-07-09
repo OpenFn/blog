@@ -2,7 +2,7 @@
 layout: post
 title: 'Announcing the new OpenFn Blog'
 author: taylor
-categories: [change, impact, announcement]
+categories: [announcement]
 image: assets/images/team-no-td.jpg
 ---
 
