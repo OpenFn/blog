@@ -8,6 +8,7 @@ categories:
     healthcare,
     MySQL,
     CommCare,
+    automated reporting
   ]
 image: assets/images/carisfoundation.jpeg
 featured: true
@@ -29,7 +30,7 @@ As part of Caris Foundation’s health worker outreach program, community health
 
 ### Disconnected systems created week- and months-long reporting lags. 
 
-Caris implemented [CommCare](https://dimagi.com/commcare/) to enable CHWs to collect data offline via mobile phone when working in remote environments. However, all data collected for analysis, such as beneficiary profiles, services received, and follow-up visits, needed to be manually transcribed via paper copies into the HIV Haiti MySQL database. This process would take a week (and up to several months) to complete, and sometimes the data collected would  never make it to the database.
+Caris implemented [CommCare](https://dimagi.com/commcare/) to enable CHWs to collect data offline via mobile phone when working in remote environments. However, all data collected for analysis, such as beneficiary profiles, services received, and follow-up visits, needed to be manually transcribed via paper copies into the HIV Haiti MySQL database. This process would take a week (and up to several months) to complete, and sometimes the data collected would never make it to the database.
 
 ### OpenFn data integration saves Caris Foundation staff thousands of hours, enabling live, automated reporting. 
 
