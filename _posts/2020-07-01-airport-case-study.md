@@ -5,9 +5,9 @@ author: leilei
 categories:
   [
     case study,
-    automation,
-    commcare,
+    CommCare,
     IBM Maximo,
+    automated reporting
   ]
 image: assets/images/airport.jpeg
 featured: false
