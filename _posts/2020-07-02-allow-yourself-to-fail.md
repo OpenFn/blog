@@ -2,7 +2,7 @@
 layout: post
 title: 'Allow Yourself to Fail'
 author: taylor
-categories: [how-to, mssql, db, design, ict4d]
+categories: [how-to, OpenFn Advice]
 image: assets/images/designforfailure.jpg
 featured: true
 ---
