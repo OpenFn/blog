@@ -3,7 +3,7 @@ layout: post
 title: 'Building Integrated Systems That Just Work'
 author: taylor 
 categories:
-  [OpenFn Advice]
+  [tips]
 image: assets/images/roads.jpg
 featured: false
 ---
