@@ -16,8 +16,6 @@ The census plays an important role in public administration by creating a compil
 
 [iKapaData](http://ikapadata.com/) is a survey research and data science company with an aim to make data accessible, tangible, and actionable. For a census in South Africa in 2017, they were collecting household data using [SurveyCTO.](https://www.surveycto.com/) Each enumerator participating in the fieldwork was equipped with a tablet and an external GPS device for data collection. 
 
-![]({{ site.baseurl }}/assets/images/ikapa1.jpg)
-
 #### iKapaData had no way to actively monitor data collection activities on the ground. 
 
 As enumerators collected the census data, iKapaData wanted to analyze that dataset using two reporting applications, [Carto](https://carto.com/) and [Zoho](https://www.zoho.com/) – each with its own data model and required formats. To upload the data into the two reporting systems, iKapaData would have to rely on time-intensive manual data migration, and there was no easy way to actively monitor the census data collection. 
