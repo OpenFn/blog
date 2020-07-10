@@ -2,7 +2,7 @@
 layout: post
 title: 'To Automate or Not to Automate? Ask Yourself These 3 Questions.'
 author: aleksa
-categories: [OpenFn Advice]
+categories: [tips]
 image: assets/images/questions1.jpeg
 featured: true
 ---
