@@ -2,7 +2,7 @@
 layout: post
 title: 'Allow Yourself to Fail'
 author: taylor
-categories: [how-to, OpenFn Advice]
+categories: [how-to, tips]
 image: assets/images/designforfailure.jpg
 featured: true
 ---
