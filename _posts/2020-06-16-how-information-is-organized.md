@@ -3,7 +3,7 @@ layout: post
 title: 'How Information Is Organized... In Organizations'
 author: taylor 
 categories:
-  [how-to, OpenFn Advice]
+  [how-to, tips]
 image: assets/images/informationorganized.jpg
 featured: false
 ---
@@ -39,7 +39,6 @@ The box is my favorite. It represents an entity in your data system. Entities (l
 The crow’s foot is my second favorite. It’s used to show relationships between entities. We know that teachers are related to the sessions that they conduct. (And `session` might be another entity, with fields like `date`, `subject taught`, and `venue`, to name just a few.) The crow’s foot allows us to specify exactly how they are related. On that session entity, we’ll need to specify the name (or ID) of the teacher who led it. On the teacher entity, however, there won’t be a field to specify the name or ID of the session… because a single teacher can lead MANY sessions. This is a one-to-many relationship. The crow’s foot (that little three-pronged fella) denotes the many. One teacher can have many sessions. One session, however, can only have one teacher. See the diagram below.
 
 ![]({{ site.baseurl }}/assets/images/objectmodel3.png)
-
 
 If we focus just on `teacher` and `session` and think back to MS Excel, we can envision a `teachers` table and a `sessions` table. Let’s put them on different sheets in the same workbook. On the `teachers` table, there is no column for `session`, but on the `sessions` table, there _is_ a column for `teacher ID`. We’ve just established a one-to-many relationship.
 
