@@ -13,7 +13,7 @@ categories:
     supply chain system
   ]
 image: assets/images/x-runner.jpg
-featured: false
+featured: true
 ---
 
 _X-runner implemented OpenFn to connect its existing systems and sync data in real-time to more effectively manage and monitor waste collection activities. With this integrated service system, X-runner can deliver high quality customer service and technical assistance to their customers, with no time lag._
