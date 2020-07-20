@@ -13,7 +13,7 @@ categories:
     automated reporting
   ]
 image: assets/images/ase.jpg
-featured: false
+featured: true
 ---
 
 _ASE had a diverse data portfolio spread across so many sources that couldn't easily be analyzed. Open Function delivered a centralized, single-view solution for monitoring students and sharing data across schools._
