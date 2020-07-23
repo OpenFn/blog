@@ -14,7 +14,7 @@ categories:
     automated reporting
   ]
 image: assets/images/kgvk.v2.png
-featured: true
+featured: false
 ---
 
 _In the past, it took KGVK months to digitize and analyze survey data before sharing reports with key staff. Using OpenFn, KGVK was able to monitor data in near real-time and better serve the needs of its communities._
