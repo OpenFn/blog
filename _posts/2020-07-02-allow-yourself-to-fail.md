@@ -4,7 +4,7 @@ title: 'Allow Yourself to Fail'
 author: taylor
 categories: [how-to, tips]
 image: assets/images/designforfailure.jpg
-featured: true
+featured: false
 ---
 
 Hi all, this is a very short post with a simple message: design for failure. I want to talk for one moment about the importance of upserts and a funny developer term called "idempotence."
