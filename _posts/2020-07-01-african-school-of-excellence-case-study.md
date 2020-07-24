@@ -5,6 +5,7 @@ author: leilei
 categories:
   [
     case study,
+    African School of Excellence,
     education,
     PostgreSQL,
     Redash,
