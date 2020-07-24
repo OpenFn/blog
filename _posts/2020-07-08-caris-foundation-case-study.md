@@ -5,6 +5,7 @@ author: taylor
 categories:
   [
     case study,
+    Caris Foundation,
     healthcare,
     MySQL,
     CommCare,
