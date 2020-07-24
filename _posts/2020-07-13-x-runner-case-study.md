@@ -5,6 +5,7 @@ author: leilei
 categories:
   [
     case study,
+    x-runner,
     development, 
     healthcare,
     ODK,
