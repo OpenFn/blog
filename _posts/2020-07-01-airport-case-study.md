@@ -5,6 +5,7 @@ author: leilei
 categories:
   [
     case study,
+    airport,
     CommCare,
     development,
     IBM Maximo,
