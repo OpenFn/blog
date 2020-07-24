@@ -6,7 +6,7 @@ author: leilei
 categories:
   [
     case study,
-    myAgro
+    myAgro,
     agriculture,
     CommCare,
     Salesforce,
