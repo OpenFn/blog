@@ -3,7 +3,7 @@ layout: post
 title: 'Real-Time Disease Monitoring for SwissTPH'
 author: leilei
 categories:
-  [ case study, healthcare, CommCare, DHIS2, data monitoring ]
+  [ case study, SwissTPH, healthcare, CommCare, DHIS2, data monitoring ]
 image: assets/images/swisstph1.jpg
 featured: true
 ---
