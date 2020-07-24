@@ -16,7 +16,7 @@ image: assets/images/x-runner.jpg
 featured: false
 ---
 
-_X-runner implemented OpenFn to connect its existing systems and sync data in real-time to more effectively manage and monitor waste collection activities. With this integrated service system, X-runner can deliver high quality customer service and technical assistance to their customers, with no time lag._
+_In 2017, x-runner implemented OpenFn to connect its existing systems and sync data in real-time to more effectively manage and monitor waste collection activities. With this integrated service system, X-runner can deliver high quality customer service and technical assistance to their customers, with no time lag._
 
 ### X-Runner is providing sanitation solutions for better health in informal settlements in Peru.
 
