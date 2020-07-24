@@ -5,6 +5,7 @@ author: leilei
 categories:
   [
     case study,
+    KGVK,
     education, 
     healthcare, 
     development,
