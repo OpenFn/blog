@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Product News: Enhanced scheduled/periodic job control'
+title: 'Product News: Enhanced Scheduled/Periodic Job Control'
 author: taylor
-categories: [product, upgrade]
-image: assets/images/hourglass.jpg
+categories: [annoucement, tips]
+image: assets/images/cronhourglass.jpg
 featured: true
 ---
 
-Hi all, this is a quick one from the product team at OpenFn—we've made a major
+Hi all, this is a quick one from the product team at [OpenFn](https://openfn.org/) — we've made a major
 upgrade to how timed/period jobs work.
 
 In the past, if you weren't using OpenFn to drive some real-time (or
@@ -26,7 +26,7 @@ tasks get executed.
 
 ![image](/assets/images/calendar.jpg)
 
-## Scheduling is better than timing
+### Scheduling is better than timing.
 
 Using `cron`, you can choose to run a job every minute by typing `* * * * *`.
 
@@ -38,7 +38,7 @@ onset of flu season? Simply type `0 0 1 2-4 *` and your job will run at midnight
 the 1st of the month, from February through April.
 
 You can still run jobs at the click of a button and create timers with
-expressions like `*/10 * * * *` for "every 10 minutes", but scheduling with cron
+expressions like `*/10 * * * *`  for "every 10 minutes", but scheduling with cron
 gives OpenFn.org users so much more control over how they run their
 organizations. (And that's a good thing.)
 
