@@ -9,9 +9,9 @@ image: assets/images/sinapis.jpg
 featured: false
 ---
 
-_This payment integration has saved Sinapis hundreds of manual hours and ensures
-that all payment information is always accurate up-to-date. This enables Sinapis
-to run smoothly and focus on helping its entrepreneurs rather than data entry._
+_Integration has saved Sinapis staff hundreds of manual hours and ensures
+that all payment information is always accurate up-to-date to help Sinapis
+to run programs smoothly._
 
 ### Sinapis is accelerating small business development across Kenya, Uganda, and Rwanda with their innovative training program.
 
@@ -40,8 +40,8 @@ M-Pesa and other mobile payment types from enrolled entrepreneurs. Kopo Kopo,
 however, was not integrated with Salesforce, so Sinapis staff had no easy way to
 track payments and outstanding balances.
 
-**OpenFn saves Sinapis management time by integrating payments data for
-real-time account monitoring.** When payments are made via Kopo Kopo, OpenFn...
+### OpenFn saves Sinapis management time by integrating payments data for real-time account monitoring. 
+When payments are made via Kopo Kopo, OpenFn...
 
 1. Automatically matches incoming payments with existing Sinapis accounts,
 2. Logs new payments and updates payment status in Salesforce,
