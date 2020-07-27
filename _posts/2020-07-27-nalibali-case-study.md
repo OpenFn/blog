@@ -25,7 +25,7 @@ The  results of the Progress in International Reading Literacy Study 2016 showed
 
 [Nal’ibali](https://www.nalibali.org/) (isiXhosa for 'here's the story') is a national reading-for-enjoyment initiative to use the power of stories, either oral or written and in many different languages, to inspire children to want to read and write. Since this campaign began in 2012, it has had a tremendous impact across South Africa through: 11,132 reading clubs (5220 of which are currently active), 159,191 participants, and 1,419,035 stories distributed. 
 
-###  Nal’ibali needed to connect systems to monitor children’s activities across programs.
+### With multiple systems and programs, there was no single-view of a child's literacy progress.
 To manage its nationwide literacy campaign, Nal'ibali used a collection of technology platforms for data collection, reporting, and program management. Nal'ibali implemented Salesforce for enhanced data management. However, Nal'ibali still needed to integrate its OpenDataKit (ODK) data collection tools and online learning management system with Salesforce to track the entire program journey and progress of a child beneficiary in one, single-view.
 
 ### OpenFn integrates online and offline data sources so that Nal'ibali can monitor children's progress across _all_ literacy programs. 
