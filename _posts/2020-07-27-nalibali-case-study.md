@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Connecting Beneficiaries, Information Systems, and SMS to Expand the Reach of Literacy Groups Across South Africa'
+title: 'Connecting Beneficiaries, Data, and SMS to Expand the Reach of Literacy Groups Across South Africa'
 author: leilei
 categories:
   [
