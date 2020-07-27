@@ -53,7 +53,9 @@ hours of manual data entry work and ensures that all payment information is
 always accurate up-to-date. This helps Sinapis to run its programs more smoothly
 and focus on its mission to train 10,000 entrepreneurs. In 2018 and 2019 alone,
 Sinapis helped employ 4,863 people and impacted over 24,000 lives by creating
-jobs for those in extreme poverty. Check out Sinapis’s
+jobs for those in extreme poverty. 
+
+Check out Sinapis’s
 [2018-2019 annual report](https://sinapis.org/wp-content/uploads/2020/04/2018-19-Sinapis-Annual-Report-Digital-Version.pdf)
 to learn more about their impact.
 
