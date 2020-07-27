@@ -12,7 +12,7 @@ categories:
     learning management system
   ]
 image: assets/images/nalibali.jpg
-featured: false
+featured: true
 ---
 
 _Nal’ibali is on a mission to change education across South Africa through its reading-for-enjoyment initiative, which promotes reading and writing in mother tongue languages. To effecitvely monitor program activities and children reached across the country, Nal’ibali needed to integrate multiple data platforms._
