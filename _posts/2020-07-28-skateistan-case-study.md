@@ -31,3 +31,8 @@ This helped Skateistan’s fundraising team monitor incoming donations and more 
 
 _The picture above was originally posted on the Skateistan [site.](https://skateistan.org/citizens)_
 
+OpenFn automates workflows and processes data for development programs all over the world. 
+[Sign up](https://openfn.org/signup){: .btn} to set up a project today, absolutely free. 
+[Reach out](admin@openfn.org){: .btn} for more information. 
+
+
