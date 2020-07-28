@@ -63,8 +63,8 @@ two different systems that are bound to evolve, go offline, have a bad day, etc.
 
 
 
-OpenFn automates workflows and processes data for development programs all over the world. 
 [Sign up](https://openfn.org/signup){: .btn} to set up a project today, absolutely free. 
+
 [Reach out](admin@openfn.org){: .btn} for more information. 
 
 
