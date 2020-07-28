@@ -58,4 +58,6 @@ So... when clients let me mess around with their jobs, I _always_ recommend we
 design for idempotence. It's common sense when you're passing messages between
 two different systems that are bound to evolve, go offline, have a bad day, etc.
 
+[Click me](http://www.google.com){: .btn}
+
 — Taylor
