@@ -12,7 +12,7 @@ categories:
     automated reporting
   ]
 image: assets/images/carisfoundation.jpeg
-featured: true
+featured: false
 ---
 
 _OpenFn data integration has enabled the Caris Foundation to "work towards a better experience for the patient, for the agent, and for external reporting."_
