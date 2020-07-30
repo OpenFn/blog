@@ -5,7 +5,7 @@ author: leilei
 categories:
   [ case study, SwissTPH, healthcare, CommCare, DHIS2, data monitoring ]
 image: assets/images/swisstph1.jpg
-featured: true
+featured: false
 ---
 
  _By integrating a CommCare mobile data collection app with a national DHIS2 reporting system for the ALMANACH health initiative, OpenFn provided SwissTPH with an automated, real-time connection that enables live disease monitoring in 2019._
