@@ -7,7 +7,7 @@ image: assets/images/designforfailure.jpg
 featured: false
 ---
 
-Hi all, this is a very short post with a simple message: design for failure. I want to talk for one moment about the importance of upserts and a funny developer term called "idempotence."
+Hi all, this is a very short post with a simple message: design for failure. Even if you've never heard of [MSSQL](https://www.microsoft.com/en-us/sql-server) (or [Azure](https://azure.microsoft.com/en-us/), or Microsoft?), I want to talk for one moment about the importance of upserts and a funny developer term called "idempotence."
 
 We just extended our [language-mssql adaptor](https://github.com/OpenFn/language-mssql) with a custom function that allows upserts (an `upsert` is when you either insert a new record or update an existing record based on some identifier). Before, you'd need to write something
 tedious like:
@@ -33,13 +33,9 @@ upsert('my_table', 'some_unique_id', {
 });
 ```
 
-Here's the thing: even if you've never heard of [MSSQL](https://www.microsoft.com/en-us/sql-server) (or [Azure](https://azure.microsoft.com/en-us/), or Microsoft?),
-I want to talk for one moment about the importance of upserts and a funny
-developer term called "idempotence."
-
 For an operation to be idempotent means that it can be repeated time and time
 again without producing an unintended result. This is SUPER important for
-creating S3 (more on that [here](https://openfn.org/trust) integrations because it provides you with two
+creating S3 (**S**ecure, **S**table and **S**calable—more on that [here](https://openfn.org/trust)) integrations because it provides you with two
 "get-out-of-jail-free" cards.
 
 1. If a destination application fails, if a connection times out, or if (for
@@ -56,8 +52,7 @@ creating S3 (more on that [here](https://openfn.org/trust) integrations because 
 
 So... when clients let me mess around with their jobs, I _always_ recommend we
 design for idempotence. It's common sense when you're passing messages between
-two different systems that are bound to evolve, go offline, have a bad day, etc.
-
+two different systems that are bound to evolve, go offline, have a bad day, etc
 
 — Taylor
 
