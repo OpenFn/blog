@@ -35,7 +35,7 @@ upsert('my_table', 'some_unique_id', {
 
 For an operation to be idempotent means that it can be repeated time and time
 again without producing an unintended result. This is SUPER important for
-creating S3 (**S**ecure, **S**table and **S**calable&mdash;more on that [here](https://openfn.org/trust)) integrations because it provides you with two
+creating S3 (**S**ecure, **S**table and **S**calable—more on that [here](https://openfn.org/trust)) integrations because it provides you with two
 "get-out-of-jail-free" cards.
 
 1. If a destination application fails, if a connection times out, or if (for
