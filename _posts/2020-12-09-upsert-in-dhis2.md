@@ -7,9 +7,7 @@ image: assets/images/trackedEntities.jpg
 featured: false
 ---
 
-## tl;dr:
-
-Lots of our users want to upsert tracked entity instances in dhis2, but upserts
+tl;dr: Lots of our users want to upsert tracked entity instances in dhis2, but upserts
 aren’t supported by a standard DHIS2 API endpoint. We built one in our dhis2
 adaptor: it’s composed of existing APIs and a bit of logic 🤔. Now you can
 `upsert` tracked entity instances to DHIS2 👍 ✅.
