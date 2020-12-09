@@ -3,6 +3,7 @@ layout: post
 title: 'Tracked entity instances in DHIS2'
 author: taylor
 categories: [how-to, tips]
+image: assets/images/trackedEntities.jpg
 featured: false
 ---
 
