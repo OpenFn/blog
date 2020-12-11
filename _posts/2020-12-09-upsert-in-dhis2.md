@@ -21,7 +21,7 @@ has come up with a solution that highlights the utility of helper functions in
 our dhis2 adaptor. By combining various DHIS2 APIs through an upsertTEI function
 in OpenFn, DHIS2 users can now perform upserts to TEIs.
 
-If you’re curious, check out his implementation (here)[https://github.com/OpenFn/language-dhis2/blob/master/src/Adaptor.js#L347].
+If you’re curious, check out his implementation [here](https://github.com/OpenFn/language-dhis2/blob/master/src/Adaptor.js#L347).
 
 ## Even more!
 
