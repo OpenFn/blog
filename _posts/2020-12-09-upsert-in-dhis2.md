@@ -14,6 +14,7 @@ adaptor: it’s composed of existing APIs and a bit of logic 🤔. Now you can
 
 ## A bit more...
 
+An “UPSERT” is a portmanteau of the database functions UPDATE and INSERT. 
 It’s critical to handle upserts properly when integrating systems. As of version
 35 of the API, DHIS2 does not allow for an administrator to upsert tracked
 entity instances (“TEIs”). OpenFn’s own [Chaiwa Berian](https://github.com/chaiwa-berian)
