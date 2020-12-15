@@ -4,7 +4,7 @@ title: 'Product News: Enhanced Scheduled/Periodic Job Control'
 author: taylor
 categories: [annoucement, tips]
 image: assets/images/cronhourglass.jpg
-featured: true
+featured: false
 ---
 
 Hi all, this is a quick one from the product team at [OpenFn](https://openfn.org/) — we've made a major

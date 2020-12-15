@@ -4,7 +4,7 @@ title: 'Tracked entity instances in DHIS2'
 author: taylor
 categories: [how-to, tips]
 image: assets/images/trackedEntities.jpg
-featured: false
+featured: true
 ---
 
 tl;dr: Lots of our users want to upsert tracked entity instances in dhis2, but upserts
